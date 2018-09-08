@@ -168,3 +168,5 @@ flycheck_*.el
 
 .*.sw?
 *~
+
+*.stackdump
