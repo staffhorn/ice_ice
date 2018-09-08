@@ -164,3 +164,7 @@ flycheck_*.el
 
 # jetbrains (added by Scott)
 .idea/
+
+
+.*.sw?
+*~
