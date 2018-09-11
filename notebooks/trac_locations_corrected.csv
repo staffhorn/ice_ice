@@ -1,516 +1,516 @@
-,Departures,Facility Name,City,State,Facility Type,Per Diem Rate
-0,199,Abbott Home,New York City,New York,Juvenile Facility,Not Available
-1,85,Abilene Hold Room,Abilene,Kansas,Holding/Staging Facility,Not Available
-2,1816,Adelanto Detention Facility,Adelanto,California,Intergovernmental Service Agreement,"1455 (GM); $111.92 (1-1455), $42.36 (1456-1940)"
-3,6,Agana Immigration Holding Facility,Hagatna,Guam,Holding/Staging Facility,Not Available
-4,2,Alamosa Hold Room,Alamosa,Colorado,Holding/Staging Facility,Not Available
-5,86,Albany County Jail,Albany,New York,Intergovernmental Service Agreement,$119.30
-6,21,Albuquerque Hold Room,Albuquerque,New Mexico,Holding/Staging Facility,Not Available
-7,3,Alexandria City Jail,Alexandria,Virginia,Intergovernmental Service Agreement,Not Available
-8,12043,Alexandria Staging Facility,Alexandria,Louisiana,Holding/Staging Facility,Not Available
-9,114,Alice Peterson Residence,Mesa,Arizona,Juvenile Facility,Not Available
-10,41,Allegany County Jail,Belmont,New York,Intergovernmental Service Agreement,$95.00
-11,17,Amarillo Hold Room,Amarillo,Texas,Holding/Staging Facility,Not Available
-12,1,Anchorage Jail,Anchorage,Alaska,Intergovernmental Service Agreement,$142.66
-13,1350,AZ Rem Op Coord Center (AROCC),Phoenix,Arizona,Holding/Staging Facility,Not Available
-14,778,Artesia Family Residential Center,Artesia,New Mexico,Intergovernmental Service Agreement,Not Available
-15,1172,Atlanta District Office Hold Room,Atlanta,Georgia,Holding/Staging Facility,Not Available
-16,56,Atlanta Pretrial Detention Center,Atlanta,Georgia,Intergovernmental Service Agreement,$78.00
-17,1,Atlantic Shores Hospital,Fort Lauderdale,Florida,Medical Facility,Not Available
-18,665,Austin DRO Hold Room,Austin,Texas,Holding/Staging Facility,Not Available
-19,321,Baker County Sheriff Department.,MacClenny,Florida,Intergovernmental Service Agreement,$84.72
-20,234,Bakerfield Hold Room,Bakerfield,California,Holding/Staging Facility,Not Available
-21,8,Baldwin County Corrections Center,Bay Minette,Alabama,Intergovernmental Service Agreement,$40.00
-22,117,Baltimore DD&P Holding Facility,Baltimore,Maryland,Holding/Staging Facility,Not Available
-23,25,Baptist Child & Family Services,Fairfield,California,Intergovernmental Service Agreement,Not Available
-24,985,Baptist Child & Family Services,San Antonio,Texas,Juvenile Facility,Not Available
-25,444,Baptist Child & Family Services-Baytown,Baytown,Texas,Juvenile Facility,Not Available
-26,1368,Baptist Child & Family Services-HLG,Harlingen,Texas,Juvenile Facility,Not Available
-27,253,Baptist Child & Family Services-Ray,Raymondville,Texas,Juvenile Facility,Not Available
-28,634,Baptist Child & Family Services-SNA,San Antonio,Texas,Juvenile Facility,Not Available
-29,213,Baptist Child & Family Services-TFC,Harlingen,Texas,Juvenile Facility,Not Available
-30,912,Bedford City Jail,Bedford,Texas,Intergovernmental Service Agreement,$51.12
-31,4,Bedford Heights City Jail,Bedford Hts,Ohio,Intergovernmental Service Agreement,$65.00
-32,118,Bergen County Jail,Hackensack,New Jersey,Intergovernmental Service Agreement,$110.00
-33,437,Berks County Family Shelter,Leesport,Pennsylvania,Juvenile Facility,Not Available
-34,10,Best Western Dragon Gate Inn,Los Angeles,California,Other Facility Type,Not Available
-35,102,Bethany Children's Home,Womelsdorf,Pennsylvania,Juvenile Facility,Not Available
-36,54,"Bethany Christian Services, Grand Rapids",Grand Rapids,Michigan,Intergovernmental Service Agreement,Not Available
-37,4134,Big Spring Hold Room,Big Spring,Texas,Holding/Staging Facility,Not Available
-38,1,Billings Hold Room,Billings,Montana,Holding/Staging Facility,Not Available
-39,126,Board of Child Care,Baltimore,Maryland,Juvenile Facility,Not Available
-40,9,Boise Hold Room,Boise,Idaho,Holding/Staging Facility,Not Available
-41,425,Boone County Jail,Burlington,Kentucky,Intergovernmental Service Agreement,$55.00
-42,48,Boston Hold Room,Boston,Massachusetts,Holding/Staging Facility,Not Available
-43,444,Boys Town Facility,Miami,Florida,Juvenile Facility,Not Available
-44,1,Boystown - Cutler Bay,Cutler Bay,Florida,Juvenile Facility,Not Available
-45,90,Brazoria County Youth Homes,Freeport,Texas,Juvenile Facility,Not Available
-46,1,"Bridgewater State Hospital, Bridgewater",Bridgewater,Massachusetts,Medical Facility,Not Available
-47,257,Bristol County Jail and House of Corrections,North Dartmouth,Massachusetts,Intergovernmental Service Agreement,$98.00
-48,1429,Broadview Service Staging (Hold Room),Chicago,Illinois,Holding/Staging Facility,Not Available
-49,1,Brooklyn Metropolitan Detention Center,Brooklyn,New York,Federal Bureau of Prisons,Not Available
-50,58,Brooks County Detention Center,Falfurrias,Texas,Intergovernmental Service Agreement,$63.00
-51,1,Broward County Jail,Ft. Lauderdale,Florida,Intergovernmental Service Agreement,Not Available
-52,1527,Broward Transitional Contract Detention Facility,Pompano Beach,Florida,Contract Detention Facility,"$1,900,620 (flat fee); + $7.21 per diem"
-53,1,Brush Hold Room,Brush,Colorado,Holding/Staging Facility,Not Available
-54,11,Buffalo Hold Room,Buffalo,New York,Holding/Staging Facility,Not Available
-55,1582,Buffalo Service Processing Center (Federal Detention Facility),Batavia,New York,ICE Service Processing Center,"400 (GM); $119.33 (1-400), $17.29 (401-650)"
-56,6,Burnet County Jail,Burnet,Texas,Intergovernmental Service Agreement,$59.26
-57,206,Butler County Correctional Complex (Jail),Hamilton,Ohio,Intergovernmental Service Agreement,$53.20
-58,34,Butler County Jail,El Dorado,Kansas,Intergovernmental Service Agreement,$60.00
-59,171,Caldwell County Jail,Kingston,Missouri,Intergovernmental Service Agreement,$65.97
-60,236,Calhoun County Facility,Battle Creek,Michigan,Intergovernmental Service Agreement,"75 (GM for DEAPDMI and CALHOMI combined); $72.00 (1-75), $40.00 (76-125), $64.27 (126+)"
-61,1,Calipatria State Prison,Calipatria,California,Intergovernmental Service Agreement,Not Available
-62,1,"Candadian County, El Reno",Brownsville,Texas,Intergovernmental Service Agreement,Not Available
-63,72,Cardinal McCloskey Community Services,Valhalla,New York,Juvenile Facility,Not Available
-64,43,Carver County Jail,Chaska,Minnesota,Intergovernmental Service Agreement,$70.00 Adult $145.00 Juvenile
-65,60,Casa Heartland at Princeton,Princeton,Illinois,Juvenile Facility,Not Available
-66,7,Cascade County Jail,Great Falls,Montana,Intergovernmental Service Agreement,$75.00
-67,83,Case Guadalupe,Peoria,Illinois,Juvenile Facility,Not Available
-68,62,Case Guadalupe #2,Peoria,Illinois,Juvenile Facility,Not Available
-69,11,Case Guadalupe #3,Peoria,Illinois,Juvenile Facility,Not Available
-70,13,Caspar Hold Room,Casper,Wyoming,Holding/Staging Facility,Not Available
-71,16,Cass County Jail,Plattsmouth,Nebraska,Intergovernmental Service Agreement,$66.51
-72,144,Catholic Charities (Houston),Houston,Texas,Juvenile Facility,Not Available
-73,56,Catholic Charities - Fort Worth Shelter,Fort Worth,Texas,Juvenile Facility,Not Available
-74,6,Catholic Charities - Santa Clara County,San Jose,California,Juvenile Facility,Not Available
-75,108,Catholic Community Services - Phoenix,Phoenix,Arizona,Juvenile Facility,Not Available
-76,6,Catholic Family Center,Rochester,New York,Juvenile Facility,Not Available
-77,124,Catholic Guardian Services,New York City,New York,Juvenile Facility,Not Available
-78,2,Catholic Guardian Services - Crotona,New York City,New York,Juvenile Facility,Not Available
-79,19,Catholic Social Services,Tacoma,Washington,Juvenile Facility,Not Available
-80,471,Cayuga Centers,New York City,New York,Juvenile Facility,Not Available
-81,3,Cedar Rapids Hold Room,Cedar Rapids,Iowa,Holding/Staging Facility,Not Available
-82,2,Central Arizona Detention Center,Florence,Arizona,Contract Detention Facility,$105.17
-83,1,Central Arizona Medical Facility,Florence,Arizona,Medical Facility,Not Available
-84,53,Charleston County Correctional Facility,North Charleston,South Carolina,Intergovernmental Service Agreement,$55.00
-85,2,Charlotte Amalie Hold Room,Charlotte,Virgin Islands,Holding/Staging Facility,Not Available
-86,37,Charlotte Hold Room,Charlotte,North Carolina,Holding/Staging Facility,Not Available
-87,205,Chase County Jail,Cottonwood Falls,Kansas,Intergovernmental Service Agreement,$48.50
-88,94,Chatlin House,Holiday,Florida,Juvenile Facility,Not Available
-89,9,Chautauqua County Jail,Mayville,New York,Intergovernmental Service Agreement,$94.00
-90,9,Cheyenne Hold Room,Cheyenne,Wyoming,Holding/Staging Facility,Not Available
-91,1091,Chicago O'Hare Airport Immigration Holding Facility,Chicago,Illinois,Holding/Staging Facility,Not Available
-92,87,Children's Center Inc.,Galveston,Texas,Juvenile Facility,Not Available
-93,72,Children's Home of Kingston,Kingston,New York,Juvenile Facility,Not Available
-94,38,Children's Home of Poughkeepsie,Poughkeepsie,New York,Juvenile Facility,Not Available
-95,68,Children's Home Society of Florida,Winter Park,Florida,Juvenile Facility,Not Available
-96,453,Children's Village,Queens,New York,Juvenile Facility,Not Available
-97,27,Chippewa County Facility,Sault Sainte Marie,Michigan,Intergovernmental Service Agreement,$56.69
-98,1,Chittenden Regional. Correctional. Facility,South Burlington,Vermont,Intergovernmental Service Agreement,Not Available
-99,65,Christian County Sheriff Detention Facility,Ozark,Missouri,Intergovernmental Service Agreement,$62.43
-100,132,Clay County Justice Center,Brazil,Indiana,Intergovernmental Service Agreement,$45.00
-101,3,Cleveland Hold Room,Cleveland,Ohio,Holding/Staging Facility,Not Available
-102,107,Clinton County Correctional Facility,Lock Haven,Pennsylvania,Intergovernmental Service Agreement,$67.00
-103,46,Clinton County Jail,Plattsburgh,New York,Intergovernmental Service Agreement,$102.00
-104,788,Coastal Bend Detention Center,Robstown,Texas,Contract Detention Facility,$66.56
-105,2,Cobb County Jail,Marietta,Georgia,Intergovernmental Service Agreement,$42.58
-106,43,Collier County Sheriff Facility,Naples,Florida,Intergovernmental Service Agreement,$71.00
-107,8,Columbia Care Center,Columbia,South Carolina,Intergovernmental Service Agreement,Not Available
-108,2,Columbia Kendal Hospital,Miami,Florida,Medical Facility,Not Available
-109,89,Comfort Suites Hotel,Miami,Florida,Other Facility Type,Not Available
-110,1,Compass House Shelter,Buffalo,New York,Juvenile Facility,Not Available
-111,4,Contra Costa County Jail,Martinez,California,Intergovernmental Service Agreement,Not Available
-112,389,Contra Costa County Jail West,Richmond,California,Intergovernmental Service Agreement,$82.00
-113,623,Corpus Christi Facility,Corpus Christi,Texas,Juvenile Facility,Not Available
-114,5,County of Union Juvenile Detention Center,Elizabeth,New Jersey,Juvenile Facility,Not Available
-115,40,Crittenton Foster Care,Fullerton,California,Juvenile Facility,Not Available
-116,336,Crittenton Services,Fullerton,California,Juvenile Facility,Not Available
-117,3,Cumberland County Jail,Portland,Maine,Intergovernmental Service Agreement,$130.00
-118,8,Dakota County Jail,Dakota City,Nebraska,Intergovernmental Service Agreement,$65.00
-119,2941,Dallas Field Office Holding Facility,Dallas,Texas,Holding/Staging Facility,Not Available
-120,304,David & Margaret Home,La Verne,California,Juvenile Facility,Not Available
-121,312,David L. Moss Criminal Justice Center (Jail),Tulsa,Oklahoma,Intergovernmental Service Agreement,$54.13
-122,37,Davidson County Sheriff Facility,Nashville,Tennessee,Intergovernmental Service Agreement,$61.00
-123,279,Dearborn Police Department Facility,Dearborn,Michigan,Intergovernmental Service Agreement,"75 (GM for DEAPDMI and CALHOMI combined); $72.00 (1-75), $40.00 (76-125), $64.27 (126+)"
-124,61,DeKalb County Detention Center,Fort Payne,Alabama,Intergovernmental Service Agreement,$47.00
-125,536,Delaney Hall Detention Facility,Newark,New Jersey,Contract Detention Facility,$108.00
-126,6,Delaware County Jail,Thornton,Pennsylvania,Intergovernmental Service Agreement,$80.87
-127,1393,Denver Contract Detention Facility,Aurora,Colorado,Contract Detention Facility,"350 (GM); $140.23 (1-350), $20.31 (351+)"
-128,171,Denver Hold Room,Denver,Colorado,Holding/Staging Facility,Not Available
-129,49,Department of Corrections-Hagatna,Hagatna,Guam,Intergovernmental Service Agreement,Not Available
-130,12,Des Moines Hold Room,Des Moines,Iowa,Holding/Staging Facility,Not Available
-131,1,Desert Valley Hospital,Victorville,California,Medical Facility,Not Available
-132,9,Detroit Immigration Holding Facility,Detroit,Michigan,Holding/Staging Facility,Not Available
-133,53,Dodge County Detention Facility (Jail),Juneau,Wisconsin,Intergovernmental Service Agreement,$75.00
-134,304,Douglas County Correction Facility,Omaha,Nebraska,Intergovernmental Service Agreement,$84.00
-135,14,Dover Hold Room,Dover,Delaware,Holding/Staging Facility,Not Available
-136,2159,East Hidalgo Detention Center,La Villa,Texas,Contract Detention Facility,$59.26
-137,2,East Mesa Detention Facility,San Diego,California,Intergovernmental Service Agreement,Not Available
-138,1,Eastern Regional Jail,Martinsburg,West Virginia,Intergovernmental Service Agreement,$56.00
-139,4,Eddy County Jail,Carlsbad,New Mexico,Intergovernmental Service Agreement,Not Available
-140,810,Eden Hold Room,Eden,Texas,Holding/Staging Facility,Not Available
-141,38,El Paso Boeing Drive Hold Room,El Paso,Texas,Holding/Staging Facility,Not Available
-142,106,El Paso County Jail,Colorado Springs,Colorado,Intergovernmental Service Agreement,$62.40
-143,2635,El Paso Hold Room,El Paso,Texas,Holding/Staging Facility,Not Available
-144,1,El Paso Juvenile Service Processing Center,El Paso,Texas,ICE Service Processing Center,Not Available
-145,9522,El Paso Service Processing Center,El Paso,Texas,ICE Service Processing Center,"500 (GM); $168.84 (1-500), $9.87 (501+)"
-146,8,Elgin Police Department.Jail,Elgin,Illinois,Intergovernmental Service Agreement,$50.00
-147,1699,Elizabeth Contract Detention Facility,Elizabeth,New Jersey,Contract Detention Facility,"285 (GM); $130.81 (1-285), $129.57 (286-300), $32.57 (301+)"
-148,56,Elmore County Jail,Mountain Home,Idaho,Intergovernmental Service Agreement,$60.00
-149,6415,Eloy Federal Contract Facility,Eloy,Arizona,Intergovernmental Service Agreement,$69.97
-150,24,Erie County Jail,Erie,Pennsylvania,Intergovernmental Service Agreement,$75.00
-151,1125,Essex County Correctinal Facility (Jail),Newark,New Jersey,Intergovernmental Service Agreement,$108.00
-152,235,Etowah County Jail,Gadsden,Alabama,Intergovernmental Service Agreement,$45.00
-153,6,Eugene Hold Room,Eugene,Oregon,Holding/Staging Facility,Not Available
-154,991,Euless City Jail,Euless,Texas,Intergovernmental Service Agreement,$55.00
-155,2,Fairfax County Jail,Fairfax,Virginia,Intergovernmental Service Agreement,Not Available
-156,1167,Farmville Detention Center - ICA,Farmville,Virginia,Intergovernmental Service Agreement,"500 (GM); $125.39 (1-500), $43.69 (501+)"
-157,13,Fayette County Detention Center,Lexington,Kentucky,Intergovernmental Service Agreement,Not Available
-158,1,Fayetteville Hold Room,Fayetteville,North Carolina,Holding/Staging Facility,Not Available
-159,4,Florence Correctional Center,Florence,Arizona,Contract Detention Facility,$105.17
-160,8148,Florence Service Processing Center,Florence,Arizona,ICE Service Processing Center,"374 (GM for FLO and FSF combined); $222.05 (1-374), $0.00 (375-717)"
-161,10575,Florence Staging Facility,Florence,Arizona,Holding/Staging Facility,Not Available
-162,3,Forsyth County Jail,Winston-Salem,North Carolina,Intergovernmental Service Agreement,$62.22
-163,12,Fort Smith Hold Room,Fort Smith,Arizona,Holding/Staging Facility,Not Available
-164,212,Frederick County Detention Center,Frederick,Maryland,Intergovernmental Service Agreement,$83.00
-165,114,Freeborn County Adult Detention Center (Jail),Albert Lea,Minnesota,Intergovernmental Service Agreement,$77.02
-166,73,Fresno Holding Room,Fresno,California,Holding/Staging Facility,Not Available
-167,15,Friends of Youth Therapeutic Services,Seattle,Washington,Juvenile Facility,Not Available
-168,5,Garvin County Jail,Pauls Valley,Oklahoma,Intergovernmental Service Agreement,$43.50
-169,170,Geauga County Jail,Chardon,Ohio,Intergovernmental Service Agreement,$70.00
-170,104,George Bush Intercontinental Airport,Houston,Texas,Intergovernmental Service Agreement,Not Available
-171,218,Glades County Detention Center,Moore Haven,Florida,Intergovernmental Service Agreement,$80.64
-172,3,Glenwood Springs Hold Room,Glenwood,Colorado,Holding/Staging Facility,Not Available
-173,41,Grand Forks County Correction Center,Grand Forks,North Dakota,Intergovernmental Service Agreement,"$150.00 for UAC, $70.00 for Adult"
-174,6,Grand Forks Hold Room,Grand Forks,North Dakota,Holding/Staging Facility,Not Available
-175,2,Grand Island Hold Room,Grand Island,Nebraska,Holding/Staging Facility,Not Available
-176,8,Grand Junction Hold Room,Grand Junction,Colorado,Holding/Staging Facility,Not Available
-177,19,Grand Rapids Hold Room,Grand Rapids,Michigan,Holding/Staging Facility,Not Available
-178,60,Grayson County Jail,Leitchfield,Kentucky,Intergovernmental Service Agreement,$47.00
-179,114,Greenfield House of Correction,Greenfield,Massachusetts,Intergovernmental Service Agreement,$86.00
-180,15,Greer Hold Room,Greer,South Carolina,Holding/Staging Facility,Not Available
-181,1,Guam Adult Correctional Facility,Agana,Guam,Intergovernmental Service Agreement,Not Available
-182,7,Guaynabo DHS Holding Facility,Guaynabo,Puerto Rico,Holding/Staging Facility,Not Available
-183,32,Guaynabo Metropolitan Detention Center,San Juan,Puerto Rico,Federal Bureau of Prisons,Not Available
-184,10,Gulf Coast Jewish and Family Community Services,Clearwater,Florida,Juvenile Facility,Not Available
-185,2,Haile Detention. Center,Caldwell,Idaho,Intergovernmental Service Agreement,$54.00
-186,36,Hall County Department of Corrections,Grand Island,Nebraska,Intergovernmental Service Agreement,$63.01
-187,2,Hall County Jail,Gainesville,Georgia,Intergovernmental Service Agreement,$53.00
-188,35,Hardin County Correctional Center,Eldora,Iowa,Intergovernmental Service Agreement,$70.00
-189,18808,Harlingen Hold Room,Harlingen,Texas,Holding/Staging Facility,Not Available
-190,11,Harlingen Medical Center,Harlingen,Texas,Medical Facility,Not Available
-191,5,Harlingen Police Department,Harlingen,Texas,Intergovernmental Service Agreement,Not Available
-192,1,Harrisonburg Hold Room,Harrisonburg,Virginia,Holding/Staging Facility,Not Available
-193,28,Hartford Office Holding Facility,Hartford,Connecticut,Holding/Staging Facility,Not Available
-194,109,Heartland International Child Center-Beverly,Chicago,Illinois,Juvenile Facility,Not Available
-195,236,Heartland International Children's Center,Chicago,Illinois,Juvenile Facility,Not Available
-196,513,Heartland International Children's Center (RC),Chicago,Illinois,Juvenile Facility,Not Available
-197,2,Helena District Custody Holding Facility,Helena,Montana,Holding/Staging Facility,Not Available
-198,14,Henderson County Detention Facility,Hendersonville,North Carolina,Intergovernmental Service Agreement,Not Available
-199,796,Henderson Detention Center,Henderson,Nevada,Intergovernmental Service Agreement,$106.00
-200,1,Hendersonville Hold Room,Hendersonville,North Carolina,Holding/Staging Facility,Not Available
-201,35,Hidalgo County Jail,Edinburg,Texas,Intergovernmental Service Agreement,Not Available
-202,2,Hidalgo Police Department,Hidalgo,Texas,Intergovernmental Service Agreement,Not Available
-203,757,His House Children's Home,Miami Gardens,Florida,Juvenile Facility,Not Available
-204,28,Holy Family Institute,Pittsburgh,Pennsylvania,Juvenile Facility,Not Available
-205,42,Honolulu District Office Holding Facility,Honolulu,Hawaii,Holding/Staging Facility,Not Available
-206,168,Honolulu Federal Detention Center,Honolulu,Hawaii,Federal Bureau of Prisons,Not Available
-207,11407,Houston Contract Detention Facility,Houston,Texas,Contract Detention Facility,"750 (GM); $109.24 (1-750), $109.24 (750-900), $40.00 (901-1,000)"
-208,9,Houston Field Office Holding Room,Houston,Texas,Holding/Staging Facility,Not Available
-209,139,Howard County Detention Center,Jessup,Maryland,Intergovernmental Service Agreement,$90.00
-210,590,Hudson County Correctional Facility (Jail),Kearney,New Jersey,Intergovernmental Service Agreement,$110.00
-211,1,Imperial County Jail,El Centro,California,Intergovernmental Service Agreement,Not Available
-212,1865,Imperial Regional Adult Detention Facility,Calexico,California,Contract Detention Facility,"640 (GM); $141.66 (1-640), $96.43 (641+)"
-213,52,Indianapolis Hold Room,Indianapolis,Indiana,Holding/Staging Facility,Not Available
-214,598,International Educational Services Shelter,Los Fresnos,Texas,Juvenile Facility,Not Available
-215,501,International Educational Services-Brownsville,Brownsville,Texas,Juvenile Facility,Not Available
-216,659,International Educational Services-Driscoll,Driscoll,Texas,Juvenile Facility,Not Available
-217,241,International Educational Services-Hidalgo,Hidalgo,Texas,Juvenile Facility,Not Available
-218,496,International Educational Services-Palm Valley,Palm Valley,Texas,Juvenile Facility,Not Available
-219,69,International Educational Services-Sunshine,Sunshine,Texas,Juvenile Facility,Not Available
-220,150,International Educational Services-Weslaco,Weslaco,Texas,Juvenile Facility,Not Available
-221,36,Inwood House,New York City,New York,Juvenile Facility,Not Available
-222,460,Irwin County Detention Center,Ocilla,Georgia,Intergovernmental Service Agreement,$60.50
-223,4,Jackson Memorial Hospital,Miami,Florida,Medical Facility,Not Available
-224,7,Jacksonville Sub-Office Holding Facility,Jacksonville,Florida,Holding/Staging Facility,Not Available
-225,4,James A. Musick Facility,Irvine,California,Intergovernmental Service Agreement,$118.00
-226,3,Jameson Transitional Foster Care,Houston,Texas,Juvenile Facility,Not Available
-227,17,Jefferson County Jail,Rigby,Idaho,Intergovernmental Service Agreement,$62.69
-228,5265,Jena/ LaSalle Detention Facility,Jena,Louisiana,Contract Detention Facility,"1170 (GM for JENADLA and JENATLA combined); $70.19 (1 ? 1170), $28.38 (1171 - 1560)"
-229,538,Johnson County Jail,Cleburne,Texas,Intergovernmental Service Agreement,$59.72
-230,9,Josephine County Jail,Grants Pass,Oregon,Intergovernmental Service Agreement,$100.00
-231,13,Kansas City Hold Room,Kansas City,Missouri,Holding/Staging Facility,Not Available
-232,3331,Karnes County Residential Center,Karnes City,Texas,Intergovernmental Service Agreement,Not Available
-233,50,Kenosha County Detention Center (Jail),Kenosha,Wisconsin,Intergovernmental Service Agreement,$70.00
-234,28,Kent County Facility,Grand Rapids,Michigan,Intergovernmental Service Agreement,$85.00
-235,183,Kidspeace,Orefield,Pennsylvania,Juvenile Facility,Not Available
-236,4,Kidspeace Foster Care Program,Bethlehem,Pennsylvania,Juvenile Facility,Not Available
-237,2,Kidspeace Long Term Foster Care,Indianapolis,Indiana,Juvenile Facility,Not Available
-238,1,Kings County Hospital,Brooklyn,New York,Medical Facility,Not Available
-239,1257,Krome North Service Processing Center,Miami,Florida,ICE Service Processing Center,"450 (GM); $146.60 (1-450), $57.35 (451+)"
-240,614,Krome/Miami Hub,Miami,Florida,ICE Service Processing Center,Not Available
-241,2,La Feria Police Department,La Feria,Texas,Intergovernmental Service Agreement,Not Available
-242,2,La Paz Adult Detention Facility,Parker,Arizona,Intergovernmental Service Agreement,$60.00
-243,1,Lackland AFB,San Antonio,Texas,Juvenile Facility,Not Available
-244,14,Lakeside - Englewood,Chicago,Illinois,Juvenile Facility,Not Available
-245,12,Lakeside - Washington Park,Chicago,Illinois,Juvenile Facility,Not Available
-246,6744,Laredo Detention Center Hold Room,Laredo,Texas,Holding/Staging Facility,Not Available
-247,2487,Laredo Processing Center,Laredo,Texas,Contract Detention Facility,$59.79
-248,1,Larkin Hospital,South Miami,Florida,Medical Facility,Not Available
-249,42,Las Vegas Hold Room,Las Vegas,Nevada,Holding/Staging Facility,Not Available
-250,12,LaSalle County Regional Detention Center,Encinal,Texas,Intergovernmental Service Agreement,Not Available
-251,187,Leake & Watts,Yonkers,New York,Juvenile Facility,Not Available
-252,8,Lexington County Jail,Lexington,South Carolina,Intergovernmental Service Agreement,$60.81
-253,64,Lincoln County Sheriff's Facility,Troy,Missouri,Intergovernmental Service Agreement,$50.00
-254,388,Lincoln Hall,Lincolndale,New York,Juvenile Facility,Not Available
-255,25,Linn County Jail,Cedar Rapids,Iowa,Intergovernmental Service Agreement,$64.70
-256,2,Little Rock Hold Room,Little Rock,Arkansas,Holding/Staging Facility,Not Available
-257,1,Loma Linda University Medical Center,Loma Linda,California,Medical Facility,Not Available
-258,1,Lompoc Federal Correctional Institution,Lompoc,California,Federal Bureau of Prisons,Not Available
-259,20,Lonoke Police Detention Center,Lonoke,Arkansas,Intergovernmental Service Agreement,$30.00
-260,148,Lorraine Thomas Shelter,Winter Park,Florida,Juvenile Facility,Not Available
-261,2,Los Angeles County Jail,Los Angeles,California,Intergovernmental Service Agreement,Not Available
-262,1738,Los Custody Case Holding Facility,San Pedro,California,Holding/Staging Facility,Not Available
-263,39,Los Fresnos Hold Room,Los Fresnos,Texas,Holding/Staging Facility,Not Available
-264,66,Louisville Hold Room,Louisville,Kentucky,Holding/Staging Facility,Not Available
-265,16,Loveland Hold Room,Loveland,Colorado,Holding/Staging Facility,Not Available
-266,274,LSSS New Hope Children's Emergency Shelter,Mcallen,Texas,Juvenile Facility,Not Available
-267,3,Lubbock County Jail,Lubbock,Texas,Intergovernmental Service Agreement,$65.00
-268,58,Lubbock Hold Room,Lubbock,Texas,Holding/Staging Facility,Not Available
-269,2,Lutheran Children and Family Services,Philadelphia,Pennsylvania,Intergovernmental Service Agreement,Not Available
-270,16,Lutheran Community Services,Worcester,Massachusetts,Juvenile Facility,Not Available
-271,4,Lutheran Community Services Facility,North Seattle,Washington,Juvenile Facility,Not Available
-272,12,Lutheran Social Services Facility,Lansing,Michigan,Juvenile Facility,Not Available
-273,259,Lutheran Social Services Facility,El Paso,Texas,Juvenile Facility,Not Available
-274,18,Lutheran Social Services Facility - Bay City,Bay City,Michigan,Juvenile Facility,Not Available
-275,12,Lutheran Social Services Facility - Farmington Hills,Farmington Hills,Michigan,Juvenile Facility,Not Available
-276,85,Lutheran Social Services of Metro NY,New York City,New York,Juvenile Facility,Not Available
-277,276,Lutheran Social Services of the South,Corpus Christi,Texas,Juvenile Facility,Not Available
-278,24,Luthern Social Services of New York (Treatment Foster Care),New York City,New York,Juvenile Facility,Not Available
-279,51,Manchester Hold Room,Manchester,New Hampshire,Holding/Staging Facility,Not Available
-280,12,Marion County Jail,Indianapolis,Indiana,Intergovernmental Service Agreement,$65.00
-281,99,Marshall County Jail,Marshalltown,Iowa,Intergovernmental Service Agreement,$50.00
-282,1,Maverick County Jail,Eagle Pass,Texas,Intergovernmental Service Agreement,Not Available
-283,112,McHenry County Adult Correctional Facility,Woodstock,Illinois,Intergovernmental Service Agreement,$95.00
-284,93,Mecklenburg County Jail,Charlotte,North Carolina,Intergovernmental Service Agreement,$124.78
-285,2,Medford Sub-Office Holding Facility,Medford,Oregon,Holding/Staging Facility,Not Available
-286,3,Memphis Hold Room,Memphis,Tennessee,Holding/Staging Facility,Not Available
-287,4,Mercy First - Bayshore,Bayshore,New York,Juvenile Facility,Not Available
-288,102,Mercy First - Syosset,Syosset,New York,Juvenile Facility,Not Available
-289,112,Mesa Verde Detention Facility - CCF,Bakersfield,California,Intergovernmental Service Agreement,"320 (GM); $119.95 (1-320), $94.95 (321-400)"
-290,2637,Miami Staging Facility,Miami,Florida,Holding/Staging Facility,Not Available
-291,3,Miller County Jail,Texarkana,Arkansas,Intergovernmental Service Agreement,$52.00
-292,35,Milwaukee Hold Room,Milwaukee,Wisconsin,Holding/Staging Facility,Not Available
-293,11,Minicassia Detention Center,Burley,Idaho,Intergovernmental Service Agreement,$45.00
-294,15,Mississippi County Detention Center,Charleston,Missouri,Intergovernmental Service Agreement,$65.03
-295,1,Missoula County Facility,Missoula,Montana,Intergovernmental Service Agreement,Not Available
-296,604,Monroe County Facility,Monroe,Michigan,Intergovernmental Service Agreement,$74.96
-297,39,Monroe County Jail,Key West,Florida,Intergovernmental Service Agreement,"50 (GM); $87.00 (1-50), $25.00 (51-72)"
-298,7,Monroe County Jail (Main),Monroe,Michigan,Intergovernmental Service Agreement,Not Available
-299,5,Montgomery City Jail,Montgomery,Alabama,Intergovernmental Service Agreement,$48.00
-300,146,Montgomery County Jail,Montgomery City,Missouri,Intergovernmental Service Agreement,$50.00
-301,251,Montgomery County Jail,Norristown,Pennsylvania,Intergovernmental Service Agreement,$74.50
-302,4341,Montgomery County Jail,Conroe,Texas,Intergovernmental Service Agreement,$67.07
-303,149,Morgan County Sheriff's Facilityt,Versailles,Missouri,Intergovernmental Service Agreement,$65.10
-304,60,Morrison Center,Portland,Oregon,Juvenile Facility,Not Available
-305,30,Morrison Center - Knott Site,Portland,Oregon,Juvenile Facility,Not Available
-306,54,Morrison Center - Paso Staff Secure,Portland,Oregon,Juvenile Facility,Not Available
-307,27,Morrison Center - Secure,Portland,Oregon,Juvenile Facility,Not Available
-308,503,Morrow County Correctional Facility,Mount Gilead,Ohio,Intergovernmental Service Agreement,$53.64
-309,1,MVM Transport -San Antonio,San Antonio,Texas,Other Facility Type,Not Available
-310,1,MVN Transportation - SNA,Rancho Cucamonga,California,Other Facility Type,Not Available
-311,1,Nashua St. Jail,Boston,Massachusetts,Intergovernmental Service Agreement,Not Available
-312,14,Natrona County Jail,Casper,Wyoming,Intergovernmental Service Agreement,$75.00
-313,133,Neighbor to Family - MIA,Daytona Beach,Florida,Juvenile Facility,Not Available
-314,49,Neighbor to Family - UAC PGM - ATL,Atlanta,Georgia,Juvenile Facility,Not Available
-315,6,New Hanover County Detention Center,Castle Hayne,North Carolina,Intergovernmental Service Agreement,$60.00
-316,110,New Leaf,Mesa,Arizona,Juvenile Facility,Not Available
-317,175,New York City Field Office Holding Facility,New York,New York,Holding/Staging Facility,Not Available
-318,115,New York Foundling Program/Shelter,New York City,New York,Juvenile Facility,Not Available
-319,153,Newark Immigration Holding Room,Newark,New Jersey,Holding/Staging Facility,Not Available
-320,18,Noank Group Homes and Support Services,Groton,Connecticut,Juvenile Facility,Not Available
-321,11,Nobles County Jail,Worthington,Minnesota,Intergovernmental Service Agreement,$89.69
-322,2,Norfolk County Facility,Dedham,Massachusetts,Intergovernmental Service Agreement,$95.00
-323,23,Norfolk Sub-Office Hold Room,Norfolk,Virginia,Holding/Staging Facility,Not Available
-324,16,Northern Oregon Correctional Facility also known as NORCOR,The Dalles,Oregon,Intergovernmental Service Agreement,$61.12
-325,5,Northern Regional Jail,Moundsville,West Virginia,Intergovernmental Service Agreement,$65.00
-326,24,Northern Virginia Juvenile Detention,Alexandria,Virginia,Intergovernmental Service Agreement,Not Available
-327,2159,Northwest Contract Detention Center,Tacoma,Washington,Contract Detention Facility,Not Available
-328,6,Northwest State Correctional Center,Swanton,Vermont,Intergovernmental Service Agreement,$130.00
-329,106,Nuevo Amanecer Latino Children's Services,Los Angeles,California,Juvenile Facility,Not Available
-330,1,Oakdale Federal Detention Center,Oakdale,Louisiana,Federal Bureau of Prisons,Not Available
-331,30,Office of Refugee Resettlement Juvenile Facility,Chicago,Illinois,Juvenile Facility,Not Available
-332,4,Ogden Hold Room,Ogden,Utah,Holding/Staging Facility,Not Available
-333,30,Oklahoma City Hold Room,Oklahoma City,Oklahoma,Holding/Staging Facility,Not Available
-334,39,Oldham County Jail,La Grange,Kentucky,Intergovernmental Service Agreement,Not Available
-335,469,Omaha Field Office Holding Facility,Omaha,Nebraska,Holding/Staging Facility,Not Available
-336,3,Ontario County Jail,Canandaigua,New York,Intergovernmental Service Agreement,$80.00
-337,204,Orange County Correctional Facility (Jail),Goshen,New York,Intergovernmental Service Agreement,$133.93
-338,5,Orange County Jail,Orlando,Florida,Intergovernmental Service Agreement,$88.00
-339,24,Orlando Hold Room,Orlando,Florida,Holding/Staging Facility,Not Available
-340,4,Otero County Detention Facility,Alamogordo,New Mexico,Intergovernmental Service Agreement,Not Available
-341,14520,Otero County Processing Center,Chaparral,New Mexico,Intergovernmental Service Agreement,"$91.03 (1-850), $18.72 (851-1000)"
-342,1,Palmdale Regional Medical Center,Palmdale,California,Medical Facility,Not Available
-343,1,Pecos Hold Room,Pecos,Texas,Holding/Staging Facility,Not Available
-344,5,Pelican Island Center,Galveston,Texas,Juvenile Facility,Not Available
-345,1,Pennington County Jail,Rapid City,South Dakota,Intergovernmental Service Agreement,$75.00
-346,2,Perryville State Prison,Goodyear,Arizona,Intergovernmental Service Agreement,Not Available
-347,10,Phelps County Jail,Holdrege,Nebraska,Intergovernmental Service Agreement,$55.00
-348,78,Philadelphia District Office Holding Facility,Philadelphia,Pennsylvania,Holding/Staging Facility,Not Available
-349,6203,Phoenix District Office Holding Facility,Phoenix,Arizona,Holding/Staging Facility,Not Available
-350,2,Phoenix Federal Correctional Institution,Phoenix,Arizona,Federal Bureau of Prisons,Not Available
-351,252,Pike County Correctional Facility (Jail),Lords Valley,Pennsylvania,Intergovernmental Service Agreement,$82.31
-352,5,Pinellas County Jail,Clearwater,Florida,Intergovernmental Service Agreement,$80.00
-353,29,Pioneer Human Services Facilities,Fife,Washington,Juvenile Facility,Not Available
-354,10,Platte County Jail,Platte City,Missouri,Intergovernmental Service Agreement,$77.90
-355,5,Platte County Jail,Wheatland,Wyoming,Intergovernmental Service Agreement,$63.00
-356,136,Plymouth County House of Corrections Facility,Plymouth,Massachusetts,Intergovernmental Service Agreement,$93.82
-357,2056,Polk County Jail,Livingston,Texas,Intergovernmental Service Agreement,$68.59
-358,8,Polk County Jail,Des Moines,Iowa,Intergovernmental Service Agreement,$95.00
-359,1,Port Isabel Police Department,Port Isabel,Texas,Intergovernmental Service Agreement,Not Available
-360,27535,Port Isabel Service Processing Center,Los Fresnos,Texas,ICE Service Processing Center,"800 (GM); $125.69 (1-800), $0.00 (800-1175)"
-361,154,Portland District Office Holding Facility,Portland,Oregon,Holding/Staging Facility,Not Available
-362,2,Portland ME Hold Room,Portland,Maine,Holding/Staging Facility,Not Available
-363,17,Pottawattamie County Jail,Council Bluffs,Iowa,Intergovernmental Service Agreement,$79.26
-364,14,Provo Hold Room,Provo,Utah,Holding/Staging Facility,Not Available
-365,3,Pueblo Hold Room,Pueblo,Colorado,Holding/Staging Facility,Not Available
-366,171,Quality Suites,San Diego,California,Other Facility Type,Not Available
-367,29,Raleigh Hold Room,Raleigh,North Carolina,Holding/Staging Facility,Not Available
-368,48,Ramsey Adult Detention Center Annex,St. Paul,Minnesota,Intergovernmental Service Agreement,$80.00
-369,25,Randall County Jail,Amarillo,Texas,Intergovernmental Service Agreement,$65.00
-370,3,Rapid City Hold Room,Rapid City,South Dakota,Holding/Staging Facility,Not Available
-371,73,Rapp Sec Center,Stafford,Virginia,Intergovernmental Service Agreement,Not Available
-372,26,Richmon Sub-Office Hold Room,Richmond,Virginia,Holding/Staging Facility,Not Available
-373,194,Rio Cosumnes Correctional Center,Elk Grove,California,Intergovernmental Service Agreement,$100.00
-374,7071,Rio Grande Detention Center,Laredo,Texas,Contract Detention Facility,Not Available
-375,5,Roanoke City Jail,Roanoke,Virginia,Intergovernmental Service Agreement,$46.57
-376,7,Rock Island County Jail,Rock Island,Illinois,Intergovernmental Service Agreement,$45.00
-377,5,Rock Island Hold Room,Rock Island,Illinois,Holding/Staging Facility,Not Available
-378,2637,Rolling Plains Detention Center,Haskell,Texas,Intergovernmental Service Agreement,$69.10
-379,855,Sacramento Holding Facility,Sacramento,California,Holding/Staging Facility,Not Available
-380,18,Saint Albans Hold Room,Saint Albans,New York,Holding/Staging Facility,Not Available
-381,109,Salt Lake City Hold Room,Salt Lake City,Utah,Holding/Staging Facility,Not Available
-382,2,Salt Lake County Jail,Salt Lake City,Utah,Intergovernmental Service Agreement,Not Available
-383,1328,San Antonio DRO Hold Room,San Antonio,Texas,Holding/Staging Facility,Not Available
-384,4477,San Bernadino Hold Room,San Bernadino,California,Holding/Staging Facility,Not Available
-385,2402,San Diego (Otay-Mesa) Contract Correctional Facility,San Diego,California,Contract Detention Facility,Not Available
-386,3,San Diego Area Hospital,Chula Vista,California,Medical Facility,Not Available
-387,1,San Diego County Jail,San Diego,California,Intergovernmental Service Agreement,Not Available
-388,14494,San Diego District Staging Facility,San Diego,California,Holding/Staging Facility,Not Available
-389,3,San Diego Metropolitan Correctional Center,San Diego,California,Federal Bureau of Prisons,Not Available
-390,1286,San Francisco Hold Room,San Francisco,California,Holding/Staging Facility,Not Available
-391,71,San Jose Hold Room,San Jose,California,Holding/Staging Facility,Not Available
-392,35,San Juan Airport Hold Room,San Juan,Puerto Rico,Holding/Staging Facility,Not Available
-393,407,San Juan Staging,San Juan,Puerto Rico,Holding/Staging Facility,Not Available
-394,27,San Luis Regional Detention Center,San Luis,Arizona,Intergovernmental Service Agreement,$72.00
-395,16,Sandy Pines Hospital,Tequesta,Florida,Medical Facility,Not Available
-396,1,Sangamon County Jail,Springfield,Illinois,Intergovernmental Service Agreement,$53.50
-397,7,Santa Ana City Jail,Santa Ana,California,Intergovernmental Service Agreement,$105.00
-398,2422,Santa Anna DRO Hold Room,Santa Ana,California,Holding/Staging Facility,Not Available
-399,1,Santa Fe County Jail,Santa Fe,New Mexico,Intergovernmental Service Agreement,Not Available
-400,172,Seattle Field Office Holding Room,Seattle,Washington,Holding/Staging Facility,Not Available
-401,10,Sebastian County Detention Center,Fort Smith,Arkansas,Intergovernmental Service Agreement,$53.00
-402,507,Seneca County Jail,Tiffin,Ohio,Intergovernmental Service Agreement,$58.00
-403,82,Seton Home,San Antonio,Texas,Juvenile Facility,Not Available
-404,3,Shawnee County Department of Corrections Facility,Topeka,Kansas,Intergovernmental Service Agreement,$67.85
-405,32,Shenandoah Valley Juvenile Center,Stauton,Virginia,Juvenile Facility,Not Available
-406,306,Sherburne County Jail,Elk River,Minnesota,Intergovernmental Service Agreement,$80.00
-407,27,Shiloh Treatment Center,Manvel,Texas,Juvenile Facility,Not Available
-408,16,Shreveport Hold Room,Shreveport,Louisiana,Holding/Staging Facility,Not Available
-409,5,Sioux City Hold Room,Sioux City,Iowa,Holding/Staging Facility,Not Available
-410,3,Souix Falls Hold Room,Sioux Falls,South Dakota,Holding/Staging Facility,Not Available
-411,6,South Central Regional Jail,Charleston,West Virginia,Intergovernmental Service Agreement,$56.00
-412,22,South Teas/Pearsall Hold Room,Pearsall,Texas,Holding/Staging Facility,Not Available
-413,9510,South Texas Contract Detention Facility,Pearsall,Texas,Contract Detention Facility,Not Available
-414,6840,South Texas Family Residential Center,Dilley,Texas,Intergovernmental Service Agreement,Not Available
-415,777,Southwest Key Progam Canutillo,Canutillo,Texas,Juvenile Facility,Not Available
-416,952,Southwest Key - Antigua,San Benito,Texas,Juvenile Facility,Not Available
-417,41,SWK - Brownsville Staff SC,Brownsville,Texas,Juvenile Facility,Not Available
-418,332,SWK - Casa Blanca,San Antonio,Texas,Juvenile Facility,Not Available
-419,384,SWK - Casa Franklin,El Paso,Texas,Juvenile Facility,Not Available
-420,362,SWK - Combes Facility,Harlingen,Texas,Juvenile Facility,Not Available
-421,354,SWK - Conroe,Conroe,Texas,Juvenile Facility,Not Available
-422,370,SWK - El Presidente,Brownsville,Texas,Juvenile Facility,Not Available
-423,132,SWK - Houston,Houston,Texas,Juvenile Facility,Not Available
-424,214,SWK - Houston Downtown,Houston,Texas,Juvenile Facility,Not Available
-425,350,SWK - No. 946,(not specified),Texas,Juvenile Facility,Not Available
-426,618,SWK - Nueva Esperanza,Brownsville,Texas,Juvenile Facility,Not Available
-427,812,SWK - Rio Grande,San Benito,Texas,Juvenile Facility,Not Available
-428,99,SWK Juvenile -Sanjose,San Jose,California,Juvenile Facility,Not Available
-429,500,Southwest Key Juvenile Shelter -Campbell,Phoenix,Arizona,Juvenile Facility,Not Available
-430,336,Southwest Key Juvenile Shelter -Casa Lighthouse,Phoenix,Arizona,Juvenile Facility,Not Available
-431,218,SWK Juvenile Shelter -Casa Phoenix,Phoenix,Arizona,Juvenile Facility,Not Available
-432,1167,Southwest Key Juvenile Shelter -Estrella,Tucson,Arizona,Juvenile Facility,Not Available
-433,282,SWK Juvenile Shelter -Glendale,Glendale,Arizona,Juvenile Facility,Not Available
-434,320,SWK Juvenile Shelter -Hacienda del Sol,Youngtown,Arizona,Juvenile Facility,Not Available
-435,445,Southwest Key Juvenile Shelter -Las Palmas,Phoenix,Arizona,Juvenile Facility,Not Available
-436,262,SWK Lemon Grove,Lemon Grove,California,Juvenile Facility,Not Available
-437,433,SWK Processing Center,San Benito,Texas,Juvenile Facility,Not Available
-438,522,SWK Progam (Juvenile),El Paso,Texas,Juvenile Facility,Not Available
-439,252,SWKs Juvenile Facility,El Cajon,California,Juvenile Facility,Not Available
-440,1420,Southwest Louisiana Basile Detention Center,Basile,Louisiana,Contract Detention Facility,$58.02
-441,17,Specialized Care for Immigrant Youth,Chicago,Illinois,Juvenile Facility,Not Available
-442,1,Springfield Federal Medical Center,Springfield,Missouri,Federal Bureau of Prisons,Not Available
-443,243,St. Clair County Facility,Port Huron,Michigan,Intergovernmental Service Agreement,$82.00
-444,1,St. George Hold Room,St. George,Utah,Holding/Staging Facility,Not Available
-445,2,St. Jerome's Group Home,Houston,Texas,Intergovernmental Service Agreement,Not Available
-446,6,St. Louis Hold Room,St. Louis,Missouri,Holding/Staging Facility,Not Available
-447,434,St. Peter - St. Joseph Children's Home,San Antonio,Texas,Juvenile Facility,Not Available
-448,75,St. Tammany Parish Jail,Covington,Louisiana,Intergovernmental Service Agreement,$56.69
-449,5763,Stewart Detention Center,Lumpkin,Georgia,Intergovernmental Service Agreement,$62.03
-450,63,Stockton Staging Facility,San Joaquin,California,Holding/Staging Facility,Not Available
-451,145,Strafford County Correction Facility,Dover,New Hampshire,Intergovernmental Service Agreement,$83.00
-452,427,Suffolk County House of Corrections (South Bay),Boston,Massachusetts,Intergovernmental Service Agreement,$90.00
-453,3,Sussex County Jail,Sussex,New Jersey,Intergovernmental Service Agreement,Not Available
-454,1,Sweetwater County Jail,Rock Springs,Wyoming,Intergovernmental Service Agreement,$61.57
-455,173,Sycamore Canyon Academy,Oracle,Arizona,Juvenile Facility,Not Available
-456,2979,T. Don Hutto Residential Center,Taylor,Texas,Juvenile Facility,Not Available
-457,48,Tampa Hold Room,Tampa,Florida,Holding/Staging Facility,Not Available
-458,57,Tensas Parish Detention Center,Waterproof,Louisiana,Intergovernmental Service Agreement,$46.76
-459,6,Texarkana Hold Room,Texarkana,Texas,Holding/Staging Facility,Not Available
-460,120,The Children's Home - Tampa,Tampa,Florida,Juvenile Facility,Not Available
-461,14,Theo Lacy Facility,Orange,California,Intergovernmental Service Agreement,$118.00
-462,1,Tom Green City Jail,San Angelo,Texas,Intergovernmental Service Agreement,Not Available
-463,1,Toole County Facility,Shelby,Montana,Intergovernmental Service Agreement,Not Available
-464,3,Torrance County Detention Facility,Estancia,New Mexico,Intergovernmental Service Agreement,Not Available
-465,41,Tri-County Detention Center,Ullin,Illinois,Intergovernmental Service Agreement,$76.00
-466,892,Tucson Immigration Holding Room,Tucson,Arizona,Holding/Staging Facility,Not Available
-467,31,Tumbleweed Shelter - Desert Cove,Phoenix,Arizona,Juvenile Facility,Not Available
-468,11,Tumbleweed Shelter - Casa de Suenos-Willetta,Phoenix,Arizona,Juvenile Facility,Not Available
-469,18,Tumbleweed Shelter - Mountain View,Phoenix,Arizona,Juvenile Facility,Not Available
-470,2,Twin Falls Hold Room,Twin Falls,Idaho,Holding/Staging Facility,Not Available
-471,587,U.S. Detention and Deportation Holding Facility,Bloomington,Minnesota,Holding/Staging Facility,Not Available
-472,1,U.S. Marshal's - Southern District of Mississippi,Jackson,Mississippi,U.S. Marshals Service Office,Not Available
-473,1,U.S. Marshal's - Vermont,Burlington,Vermont,U.S. Marshals Service Office,Not Available
-474,63,Unied Methodist Home for Children,Mechanicsburg,Pennsylvania,Juvenile Facility,Not Available
-475,10,Urban Strategies - FMD,Miami,Florida,Juvenile Facility,Not Available
-476,34,Urban Strategies - Iglesia de Dios,Tampa,Florida,Juvenile Facility,Not Available
-477,38,Urban Strategies - Tavares Church,Tavares,Florida,Juvenile Facility,Not Available
-478,21,Urban Strategies Ignite Life Center-Gainesville,Gainesville,Florida,Juvenile Facility,Not Available
-479,56,Urban Strategies-Neighborhood Ministry,Phoenix,Arizona,Juvenile Facility,Not Available
-480,9,US Catholic Conference of Bishops,Richmond,Virginia,Juvenile Facility,Not Available
-481,619,Utah County Jail,Spanish Fork,Utah,Intergovernmental Service Agreement,$72.25
-482,112,Val Verde Detention Center,Del Rio,Texas,Intergovernmental Service Agreement,$56.00
-483,624,Varick Street Service Processing Center,New York,New York,ICE Service Processing Center,Not Available
-484,65,Ventura Custody Case Holding Facility,Camarrillo,California,Holding/Staging Facility,Not Available
-485,1,Vermont Department of Corrections Facility,Waterbury,Vermont,Intergovernmental Service Agreement,Not Available
-486,1,Victor Valley Global Medical Center,Victorville,California,Medical Facility,Not Available
-487,50,Virginia Peninsula Regional Jail,Williamsburg,Virginia,Intergovernmental Service Agreement,$62.37
-488,1,Vista Detention Facility,Vista,California,Intergovernmental Service Agreement,Not Available
-489,2,Wackenhut Facility,San Antonio,Texas,Intergovernmental Service Agreement,$58.00
-490,179,Waco Hold Room,Waco,Texas,Holding/Staging Facility,Not Available
-491,42,Wake County Sheriff Dept.,Raleigh,North Carolina,Intergovernmental Service Agreement,$63.86
-492,92,Wakulla County Jail,Crawfordville,Florida,Intergovernmental Service Agreement,$79.66
-493,26,Washington County Jail,Hurricane,Utah,Intergovernmental Service Agreement,$58.00
-494,1011,Washington Field Office Holding Facility,Fairfax,Virginia,Holding/Staging Facility,Not Available
-495,246,Washoe County Jail,Reno,Nevada,Intergovernmental Service Agreement,$109.00
-496,2,Washtenaw County Facility,Ann Arbor,Michigan,Intergovernmental Service Agreement,Not Available
-497,8,Wayne County Jail,Lyons,New York,Intergovernmental Service Agreement,$75.00
-498,13938,West Texas Detention Facility,Sierra Blanca,Texas,Intergovernmental Service Agreement,$77.00
-499,28,Western Tennessee Detention Center,Mason,Tennessee,Intergovernmental Service Agreement,$102.83
-500,2,White Memorial Hospital,Los Angeles,California,Medical Facility,Not Available
-501,2,Whitfield County Jail,Dalton,Georgia,Intergovernmental Service Agreement,$41.03
-502,23,Wichita Hold Room,Wichita,Kansas,Holding/Staging Facility,Not Available
-503,324,Willacy County Regional Detention Facility,Raymondville,Texas,Intergovernmental Service Agreement,$96.09
-504,380,Worcester County Detention Center,Snow Hill,Maryland,Intergovernmental Service Agreement,$87.11
-505,19,Yakima County Facility,Yakima,Washington,Intergovernmental Service Agreement,$84.51
-506,17,Yakima Sub-Office,Yakima,Washington,Holding/Staging Facility,Not Available
-507,4,Yellowstone County Jail,Billings,Montana,Intergovernmental Service Agreement,Not Available
-508,8,Yolo County Juvenile Detention,Woodland,California,Juvenile Facility,Not Available
-509,133,York County Detention Center,York,South Carolina,Intergovernmental Service Agreement,$55.00
-510,2735,York County Jail,York,Pennsylvania,Intergovernmental Service Agreement,$83.00
-511,171,Youth for Tomorrow,Bristow,Virginia,Juvenile Facility,Not Available
-512,56,YouthCare Facility,Seattle,Washington,Juvenile Facility,Not Available
-513,272,Yuba County Jail,Marysville,California,Intergovernmental Service Agreement,$75.16
-514,846,Yuma Hold Room,Yuma,Arizona,Holding/Staging Facility,Not Available
+Departures,Facility Name,City,State,Facility Type,Per Diem Rate
+199,Abbott Home,New York City,New York,Juvenile Facility,Not Available
+85,Abilene Hold Room,Abilene,Kansas,Holding/Staging Facility,Not Available
+1816,Adelanto Detention Facility,Adelanto,California,Intergovernmental Service Agreement,"1455 (GM); $111.92 (1-1455), $42.36 (1456-1940)"
+6,Agana Immigration Holding Facility,Hagatna,Guam,Holding/Staging Facility,Not Available
+2,Alamosa Hold Room,Alamosa,Colorado,Holding/Staging Facility,Not Available
+86,Albany County Jail,Albany,New York,Intergovernmental Service Agreement,$119.30
+21,Albuquerque Hold Room,Albuquerque,New Mexico,Holding/Staging Facility,Not Available
+3,Alexandria City Jail,Alexandria,Virginia,Intergovernmental Service Agreement,Not Available
+12043,Alexandria Staging Facility,Alexandria,Louisiana,Holding/Staging Facility,Not Available
+114,Alice Peterson Residence,Mesa,Arizona,Juvenile Facility,Not Available
+41,Allegany County Jail,Belmont,New York,Intergovernmental Service Agreement,$95.00
+17,Amarillo Hold Room,Amarillo,Texas,Holding/Staging Facility,Not Available
+1,Anchorage Jail,Anchorage,Alaska,Intergovernmental Service Agreement,$142.66
+1350,AZ Rem Op Coord Center (AROCC),Phoenix,Arizona,Holding/Staging Facility,Not Available
+778,Artesia Family Residential Center,Artesia,New Mexico,Intergovernmental Service Agreement,Not Available
+1172,Atlanta District Office Hold Room,Atlanta,Georgia,Holding/Staging Facility,Not Available
+56,Atlanta Pretrial Detention Center,Atlanta,Georgia,Intergovernmental Service Agreement,$78.00
+1,Atlantic Shores Hospital,Fort Lauderdale,Florida,Medical Facility,Not Available
+665,Austin DRO Hold Room,Austin,Texas,Holding/Staging Facility,Not Available
+321,Baker County Sheriff Department.,MacClenny,Florida,Intergovernmental Service Agreement,$84.72
+234,Bakerfield Hold Room,Bakerfield,California,Holding/Staging Facility,Not Available
+8,Baldwin County Corrections Center,Bay Minette,Alabama,Intergovernmental Service Agreement,$40.00
+117,Baltimore DD&P Holding Facility,Baltimore,Maryland,Holding/Staging Facility,Not Available
+25,Baptist Child & Family Services,Fairfield,California,Intergovernmental Service Agreement,Not Available
+985,Baptist Child & Family Services,San Antonio,Texas,Juvenile Facility,Not Available
+444,Baptist Child & Family Services-Baytown,Baytown,Texas,Juvenile Facility,Not Available
+1368,Baptist Child & Family Services-HLG,Harlingen,Texas,Juvenile Facility,Not Available
+253,Baptist Child & Family Services-Ray,Raymondville,Texas,Juvenile Facility,Not Available
+634,Baptist Child & Family Services-SNA,San Antonio,Texas,Juvenile Facility,Not Available
+213,Baptist Child & Family Services-TFC,Harlingen,Texas,Juvenile Facility,Not Available
+912,Bedford City Jail,Bedford,Texas,Intergovernmental Service Agreement,$51.12
+4,Bedford Heights City Jail,Bedford Hts,Ohio,Intergovernmental Service Agreement,$65.00
+118,Bergen County Jail,Hackensack,New Jersey,Intergovernmental Service Agreement,$110.00
+437,Berks County Family Shelter,Leesport,Pennsylvania,Juvenile Facility,Not Available
+10,Best Western Dragon Gate Inn,Los Angeles,California,Other Facility Type,Not Available
+102,Bethany Children's Home,Womelsdorf,Pennsylvania,Juvenile Facility,Not Available
+54,"Bethany Christian Services, Grand Rapids",Grand Rapids,Michigan,Intergovernmental Service Agreement,Not Available
+4134,Big Spring Hold Room,Big Spring,Texas,Holding/Staging Facility,Not Available
+1,Billings Hold Room,Billings,Montana,Holding/Staging Facility,Not Available
+126,Board of Child Care,Baltimore,Maryland,Juvenile Facility,Not Available
+9,Boise Hold Room,Boise,Idaho,Holding/Staging Facility,Not Available
+425,Boone County Jail,Burlington,Kentucky,Intergovernmental Service Agreement,$55.00
+48,Boston Hold Room,Boston,Massachusetts,Holding/Staging Facility,Not Available
+444,Boys Town Facility,Miami,Florida,Juvenile Facility,Not Available
+1,Boystown - Cutler Bay,Cutler Bay,Florida,Juvenile Facility,Not Available
+90,Brazoria County Youth Homes,Freeport,Texas,Juvenile Facility,Not Available
+1,"Bridgewater State Hospital, Bridgewater",Bridgewater,Massachusetts,Medical Facility,Not Available
+257,Bristol County Jail and House of Corrections,North Dartmouth,Massachusetts,Intergovernmental Service Agreement,$98.00
+1429,Broadview Service Staging (Hold Room),Chicago,Illinois,Holding/Staging Facility,Not Available
+1,Brooklyn Metropolitan Detention Center,Brooklyn,New York,Federal Bureau of Prisons,Not Available
+58,Brooks County Detention Center,Falfurrias,Texas,Intergovernmental Service Agreement,$63.00
+1,Broward County Jail,Ft. Lauderdale,Florida,Intergovernmental Service Agreement,Not Available
+1527,Broward Transitional Contract Detention Facility,Pompano Beach,Florida,Contract Detention Facility,"$1,900,620 (flat fee); + $7.21 per diem"
+1,Brush Hold Room,Brush,Colorado,Holding/Staging Facility,Not Available
+11,Buffalo Hold Room,Buffalo,New York,Holding/Staging Facility,Not Available
+1582,Buffalo Service Processing Center (Federal Detention Facility),Batavia,New York,ICE Service Processing Center,"400 (GM); $119.33 (1-400), $17.29 (401-650)"
+6,Burnet County Jail,Burnet,Texas,Intergovernmental Service Agreement,$59.26
+206,Butler County Correctional Complex (Jail),Hamilton,Ohio,Intergovernmental Service Agreement,$53.20
+34,Butler County Jail,El Dorado,Kansas,Intergovernmental Service Agreement,$60.00
+171,Caldwell County Jail,Kingston,Missouri,Intergovernmental Service Agreement,$65.97
+236,Calhoun County Facility,Battle Creek,Michigan,Intergovernmental Service Agreement,"75 (GM for DEAPDMI and CALHOMI combined); $72.00 (1-75), $40.00 (76-125), $64.27 (126+)"
+1,Calipatria State Prison,Calipatria,California,Intergovernmental Service Agreement,Not Available
+1,"Candadian County, El Reno",Brownsville,Texas,Intergovernmental Service Agreement,Not Available
+72,Cardinal McCloskey Community Services,Valhalla,New York,Juvenile Facility,Not Available
+43,Carver County Jail,Chaska,Minnesota,Intergovernmental Service Agreement,$70.00 Adult $145.00 Juvenile
+60,Casa Heartland at Princeton,Princeton,Illinois,Juvenile Facility,Not Available
+7,Cascade County Jail,Great Falls,Montana,Intergovernmental Service Agreement,$75.00
+83,Case Guadalupe,Peoria,Illinois,Juvenile Facility,Not Available
+62,Case Guadalupe #2,Peoria,Illinois,Juvenile Facility,Not Available
+11,Case Guadalupe #3,Peoria,Illinois,Juvenile Facility,Not Available
+13,Caspar Hold Room,Casper,Wyoming,Holding/Staging Facility,Not Available
+16,Cass County Jail,Plattsmouth,Nebraska,Intergovernmental Service Agreement,$66.51
+144,Catholic Charities (Houston),Houston,Texas,Juvenile Facility,Not Available
+56,Catholic Charities - Fort Worth Shelter,Fort Worth,Texas,Juvenile Facility,Not Available
+6,Catholic Charities - Santa Clara County,San Jose,California,Juvenile Facility,Not Available
+108,Catholic Community Services - Phoenix,Phoenix,Arizona,Juvenile Facility,Not Available
+6,Catholic Family Center,Rochester,New York,Juvenile Facility,Not Available
+124,Catholic Guardian Services,New York City,New York,Juvenile Facility,Not Available
+2,Catholic Guardian Services - Crotona,New York City,New York,Juvenile Facility,Not Available
+19,Catholic Social Services,Tacoma,Washington,Juvenile Facility,Not Available
+471,Cayuga Centers,New York City,New York,Juvenile Facility,Not Available
+3,Cedar Rapids Hold Room,Cedar Rapids,Iowa,Holding/Staging Facility,Not Available
+2,Central Arizona Detention Center,Florence,Arizona,Contract Detention Facility,$105.17
+1,Central Arizona Medical Facility,Florence,Arizona,Medical Facility,Not Available
+53,Charleston County Correctional Facility,North Charleston,South Carolina,Intergovernmental Service Agreement,$55.00
+2,Charlotte Amalie Hold Room,Charlotte,Virgin Islands,Holding/Staging Facility,Not Available
+37,Charlotte Hold Room,Charlotte,North Carolina,Holding/Staging Facility,Not Available
+205,Chase County Jail,Cottonwood Falls,Kansas,Intergovernmental Service Agreement,$48.50
+94,Chatlin House,Holiday,Florida,Juvenile Facility,Not Available
+9,Chautauqua County Jail,Mayville,New York,Intergovernmental Service Agreement,$94.00
+9,Cheyenne Hold Room,Cheyenne,Wyoming,Holding/Staging Facility,Not Available
+1091,Chicago O'Hare Airport Immigration Holding Facility,Chicago,Illinois,Holding/Staging Facility,Not Available
+87,Children's Center Inc.,Galveston,Texas,Juvenile Facility,Not Available
+72,Children's Home of Kingston,Kingston,New York,Juvenile Facility,Not Available
+38,Children's Home of Poughkeepsie,Poughkeepsie,New York,Juvenile Facility,Not Available
+68,Children's Home Society of Florida,Winter Park,Florida,Juvenile Facility,Not Available
+453,Children's Village,Queens,New York,Juvenile Facility,Not Available
+27,Chippewa County Facility,Sault Sainte Marie,Michigan,Intergovernmental Service Agreement,$56.69
+1,Chittenden Regional. Correctional. Facility,South Burlington,Vermont,Intergovernmental Service Agreement,Not Available
+65,Christian County Sheriff Detention Facility,Ozark,Missouri,Intergovernmental Service Agreement,$62.43
+132,Clay County Justice Center,Brazil,Indiana,Intergovernmental Service Agreement,$45.00
+3,Cleveland Hold Room,Cleveland,Ohio,Holding/Staging Facility,Not Available
+107,Clinton County Correctional Facility,Lock Haven,Pennsylvania,Intergovernmental Service Agreement,$67.00
+46,Clinton County Jail,Plattsburgh,New York,Intergovernmental Service Agreement,$102.00
+788,Coastal Bend Detention Center,Robstown,Texas,Contract Detention Facility,$66.56
+2,Cobb County Jail,Marietta,Georgia,Intergovernmental Service Agreement,$42.58
+43,Collier County Sheriff Facility,Naples,Florida,Intergovernmental Service Agreement,$71.00
+8,Columbia Care Center,Columbia,South Carolina,Intergovernmental Service Agreement,Not Available
+2,Columbia Kendal Hospital,Miami,Florida,Medical Facility,Not Available
+89,Comfort Suites Hotel,Miami,Florida,Other Facility Type,Not Available
+1,Compass House Shelter,Buffalo,New York,Juvenile Facility,Not Available
+4,Contra Costa County Jail,Martinez,California,Intergovernmental Service Agreement,Not Available
+389,Contra Costa County Jail West,Richmond,California,Intergovernmental Service Agreement,$82.00
+623,Corpus Christi Facility,Corpus Christi,Texas,Juvenile Facility,Not Available
+5,County of Union Juvenile Detention Center,Elizabeth,New Jersey,Juvenile Facility,Not Available
+40,Crittenton Foster Care,Fullerton,California,Juvenile Facility,Not Available
+336,Crittenton Services,Fullerton,California,Juvenile Facility,Not Available
+3,Cumberland County Jail,Portland,Maine,Intergovernmental Service Agreement,$130.00
+8,Dakota County Jail,Dakota City,Nebraska,Intergovernmental Service Agreement,$65.00
+2941,Dallas Field Office Holding Facility,Dallas,Texas,Holding/Staging Facility,Not Available
+304,David & Margaret Home,La Verne,California,Juvenile Facility,Not Available
+312,David L. Moss Criminal Justice Center (Jail),Tulsa,Oklahoma,Intergovernmental Service Agreement,$54.13
+37,Davidson County Sheriff Facility,Nashville,Tennessee,Intergovernmental Service Agreement,$61.00
+279,Dearborn Police Department Facility,Dearborn,Michigan,Intergovernmental Service Agreement,"75 (GM for DEAPDMI and CALHOMI combined); $72.00 (1-75), $40.00 (76-125), $64.27 (126+)"
+61,DeKalb County Detention Center,Fort Payne,Alabama,Intergovernmental Service Agreement,$47.00
+536,Delaney Hall Detention Facility,Newark,New Jersey,Contract Detention Facility,$108.00
+6,Delaware County Jail,Thornton,Pennsylvania,Intergovernmental Service Agreement,$80.87
+1393,Denver Contract Detention Facility,Aurora,Colorado,Contract Detention Facility,"350 (GM); $140.23 (1-350), $20.31 (351+)"
+171,Denver Hold Room,Denver,Colorado,Holding/Staging Facility,Not Available
+49,Department of Corrections-Hagatna,Hagatna,Guam,Intergovernmental Service Agreement,Not Available
+12,Des Moines Hold Room,Des Moines,Iowa,Holding/Staging Facility,Not Available
+1,Desert Valley Hospital,Victorville,California,Medical Facility,Not Available
+9,Detroit Immigration Holding Facility,Detroit,Michigan,Holding/Staging Facility,Not Available
+53,Dodge County Detention Facility (Jail),Juneau,Wisconsin,Intergovernmental Service Agreement,$75.00
+304,Douglas County Correction Facility,Omaha,Nebraska,Intergovernmental Service Agreement,$84.00
+14,Dover Hold Room,Dover,Delaware,Holding/Staging Facility,Not Available
+2159,East Hidalgo Detention Center,La Villa,Texas,Contract Detention Facility,$59.26
+2,East Mesa Detention Facility,San Diego,California,Intergovernmental Service Agreement,Not Available
+1,Eastern Regional Jail,Martinsburg,West Virginia,Intergovernmental Service Agreement,$56.00
+4,Eddy County Jail,Carlsbad,New Mexico,Intergovernmental Service Agreement,Not Available
+810,Eden Hold Room,Eden,Texas,Holding/Staging Facility,Not Available
+38,El Paso Boeing Drive Hold Room,El Paso,Texas,Holding/Staging Facility,Not Available
+106,El Paso County Jail,Colorado Springs,Colorado,Intergovernmental Service Agreement,$62.40
+2635,El Paso Hold Room,El Paso,Texas,Holding/Staging Facility,Not Available
+1,El Paso Juvenile Service Processing Center,El Paso,Texas,ICE Service Processing Center,Not Available
+9522,El Paso Service Processing Center,El Paso,Texas,ICE Service Processing Center,"500 (GM); $168.84 (1-500), $9.87 (501+)"
+8,Elgin Police Department.Jail,Elgin,Illinois,Intergovernmental Service Agreement,$50.00
+1699,Elizabeth Contract Detention Facility,Elizabeth,New Jersey,Contract Detention Facility,"285 (GM); $130.81 (1-285), $129.57 (286-300), $32.57 (301+)"
+56,Elmore County Jail,Mountain Home,Idaho,Intergovernmental Service Agreement,$60.00
+6415,Eloy Federal Contract Facility,Eloy,Arizona,Intergovernmental Service Agreement,$69.97
+24,Erie County Jail,Erie,Pennsylvania,Intergovernmental Service Agreement,$75.00
+1125,Essex County Correctinal Facility (Jail),Newark,New Jersey,Intergovernmental Service Agreement,$108.00
+235,Etowah County Jail,Gadsden,Alabama,Intergovernmental Service Agreement,$45.00
+6,Eugene Hold Room,Eugene,Oregon,Holding/Staging Facility,Not Available
+991,Euless City Jail,Euless,Texas,Intergovernmental Service Agreement,$55.00
+2,Fairfax County Jail,Fairfax,Virginia,Intergovernmental Service Agreement,Not Available
+1167,Farmville Detention Center - ICA,Farmville,Virginia,Intergovernmental Service Agreement,"500 (GM); $125.39 (1-500), $43.69 (501+)"
+13,Fayette County Detention Center,Lexington,Kentucky,Intergovernmental Service Agreement,Not Available
+1,Fayetteville Hold Room,Fayetteville,North Carolina,Holding/Staging Facility,Not Available
+4,Florence Correctional Center,Florence,Arizona,Contract Detention Facility,$105.17
+8148,Florence Service Processing Center,Florence,Arizona,ICE Service Processing Center,"374 (GM for FLO and FSF combined); $222.05 (1-374), $0.00 (375-717)"
+10575,Florence Staging Facility,Florence,Arizona,Holding/Staging Facility,Not Available
+3,Forsyth County Jail,Winston-Salem,North Carolina,Intergovernmental Service Agreement,$62.22
+12,Fort Smith Hold Room,Fort Smith,Arizona,Holding/Staging Facility,Not Available
+212,Frederick County Detention Center,Frederick,Maryland,Intergovernmental Service Agreement,$83.00
+114,Freeborn County Adult Detention Center (Jail),Albert Lea,Minnesota,Intergovernmental Service Agreement,$77.02
+73,Fresno Holding Room,Fresno,California,Holding/Staging Facility,Not Available
+15,Friends of Youth Therapeutic Services,Seattle,Washington,Juvenile Facility,Not Available
+5,Garvin County Jail,Pauls Valley,Oklahoma,Intergovernmental Service Agreement,$43.50
+170,Geauga County Jail,Chardon,Ohio,Intergovernmental Service Agreement,$70.00
+104,George Bush Intercontinental Airport,Houston,Texas,Intergovernmental Service Agreement,Not Available
+218,Glades County Detention Center,Moore Haven,Florida,Intergovernmental Service Agreement,$80.64
+3,Glenwood Springs Hold Room,Glenwood,Colorado,Holding/Staging Facility,Not Available
+41,Grand Forks County Correction Center,Grand Forks,North Dakota,Intergovernmental Service Agreement,"$150.00 for UAC, $70.00 for Adult"
+6,Grand Forks Hold Room,Grand Forks,North Dakota,Holding/Staging Facility,Not Available
+2,Grand Island Hold Room,Grand Island,Nebraska,Holding/Staging Facility,Not Available
+8,Grand Junction Hold Room,Grand Junction,Colorado,Holding/Staging Facility,Not Available
+19,Grand Rapids Hold Room,Grand Rapids,Michigan,Holding/Staging Facility,Not Available
+60,Grayson County Jail,Leitchfield,Kentucky,Intergovernmental Service Agreement,$47.00
+114,Greenfield House of Correction,Greenfield,Massachusetts,Intergovernmental Service Agreement,$86.00
+15,Greer Hold Room,Greer,South Carolina,Holding/Staging Facility,Not Available
+1,Guam Adult Correctional Facility,Agana,Guam,Intergovernmental Service Agreement,Not Available
+7,Guaynabo DHS Holding Facility,Guaynabo,Puerto Rico,Holding/Staging Facility,Not Available
+32,Guaynabo Metropolitan Detention Center,San Juan,Puerto Rico,Federal Bureau of Prisons,Not Available
+10,Gulf Coast Jewish and Family Community Services,Clearwater,Florida,Juvenile Facility,Not Available
+2,Haile Detention. Center,Caldwell,Idaho,Intergovernmental Service Agreement,$54.00
+36,Hall County Department of Corrections,Grand Island,Nebraska,Intergovernmental Service Agreement,$63.01
+2,Hall County Jail,Gainesville,Georgia,Intergovernmental Service Agreement,$53.00
+35,Hardin County Correctional Center,Eldora,Iowa,Intergovernmental Service Agreement,$70.00
+18808,Harlingen Hold Room,Harlingen,Texas,Holding/Staging Facility,Not Available
+11,Harlingen Medical Center,Harlingen,Texas,Medical Facility,Not Available
+5,Harlingen Police Department,Harlingen,Texas,Intergovernmental Service Agreement,Not Available
+1,Harrisonburg Hold Room,Harrisonburg,Virginia,Holding/Staging Facility,Not Available
+28,Hartford Office Holding Facility,Hartford,Connecticut,Holding/Staging Facility,Not Available
+109,Heartland International Child Center-Beverly,Chicago,Illinois,Juvenile Facility,Not Available
+236,Heartland International Children's Center,Chicago,Illinois,Juvenile Facility,Not Available
+513,Heartland International Children's Center (RC),Chicago,Illinois,Juvenile Facility,Not Available
+2,Helena District Custody Holding Facility,Helena,Montana,Holding/Staging Facility,Not Available
+14,Henderson County Detention Facility,Hendersonville,North Carolina,Intergovernmental Service Agreement,Not Available
+796,Henderson Detention Center,Henderson,Nevada,Intergovernmental Service Agreement,$106.00
+1,Hendersonville Hold Room,Hendersonville,North Carolina,Holding/Staging Facility,Not Available
+35,Hidalgo County Jail,Edinburg,Texas,Intergovernmental Service Agreement,Not Available
+2,Hidalgo Police Department,Hidalgo,Texas,Intergovernmental Service Agreement,Not Available
+757,His House Children's Home,Miami Gardens,Florida,Juvenile Facility,Not Available
+28,Holy Family Institute,Pittsburgh,Pennsylvania,Juvenile Facility,Not Available
+42,Honolulu District Office Holding Facility,Honolulu,Hawaii,Holding/Staging Facility,Not Available
+168,Honolulu Federal Detention Center,Honolulu,Hawaii,Federal Bureau of Prisons,Not Available
+11407,Houston Contract Detention Facility,Houston,Texas,Contract Detention Facility,"750 (GM); $109.24 (1-750), $109.24 (750-900), $40.00 (901-1,000)"
+9,Houston Field Office Holding Room,Houston,Texas,Holding/Staging Facility,Not Available
+139,Howard County Detention Center,Jessup,Maryland,Intergovernmental Service Agreement,$90.00
+590,Hudson County Correctional Facility (Jail),Kearney,New Jersey,Intergovernmental Service Agreement,$110.00
+1,Imperial County Jail,El Centro,California,Intergovernmental Service Agreement,Not Available
+1865,Imperial Regional Adult Detention Facility,Calexico,California,Contract Detention Facility,"640 (GM); $141.66 (1-640), $96.43 (641+)"
+52,Indianapolis Hold Room,Indianapolis,Indiana,Holding/Staging Facility,Not Available
+598,International Educational Services Shelter,Los Fresnos,Texas,Juvenile Facility,Not Available
+501,International Educational Services-Brownsville,Brownsville,Texas,Juvenile Facility,Not Available
+659,International Educational Services-Driscoll,Driscoll,Texas,Juvenile Facility,Not Available
+241,International Educational Services-Hidalgo,Hidalgo,Texas,Juvenile Facility,Not Available
+496,International Educational Services-Palm Valley,Palm Valley,Texas,Juvenile Facility,Not Available
+69,International Educational Services-Sunshine,Sunshine,Texas,Juvenile Facility,Not Available
+150,International Educational Services-Weslaco,Weslaco,Texas,Juvenile Facility,Not Available
+36,Inwood House,New York City,New York,Juvenile Facility,Not Available
+460,Irwin County Detention Center,Ocilla,Georgia,Intergovernmental Service Agreement,$60.50
+4,Jackson Memorial Hospital,Miami,Florida,Medical Facility,Not Available
+7,Jacksonville Sub-Office Holding Facility,Jacksonville,Florida,Holding/Staging Facility,Not Available
+4,James A. Musick Facility,Irvine,California,Intergovernmental Service Agreement,$118.00
+3,Jameson Transitional Foster Care,Houston,Texas,Juvenile Facility,Not Available
+17,Jefferson County Jail,Rigby,Idaho,Intergovernmental Service Agreement,$62.69
+5265,Jena/ LaSalle Detention Facility,Jena,Louisiana,Contract Detention Facility,"1170 (GM for JENADLA and JENATLA combined); $70.19 (1 ? 1170), $28.38 (1171 - 1560)"
+538,Johnson County Jail,Cleburne,Texas,Intergovernmental Service Agreement,$59.72
+9,Josephine County Jail,Grants Pass,Oregon,Intergovernmental Service Agreement,$100.00
+13,Kansas City Hold Room,Kansas City,Missouri,Holding/Staging Facility,Not Available
+3331,Karnes County Residential Center,Karnes City,Texas,Intergovernmental Service Agreement,Not Available
+50,Kenosha County Detention Center (Jail),Kenosha,Wisconsin,Intergovernmental Service Agreement,$70.00
+28,Kent County Facility,Grand Rapids,Michigan,Intergovernmental Service Agreement,$85.00
+183,Kidspeace,Orefield,Pennsylvania,Juvenile Facility,Not Available
+4,Kidspeace Foster Care Program,Bethlehem,Pennsylvania,Juvenile Facility,Not Available
+2,Kidspeace Long Term Foster Care,Indianapolis,Indiana,Juvenile Facility,Not Available
+1,Kings County Hospital,Brooklyn,New York,Medical Facility,Not Available
+1257,Krome North Service Processing Center,Miami,Florida,ICE Service Processing Center,"450 (GM); $146.60 (1-450), $57.35 (451+)"
+614,Krome/Miami Hub,Miami,Florida,ICE Service Processing Center,Not Available
+2,La Feria Police Department,La Feria,Texas,Intergovernmental Service Agreement,Not Available
+2,La Paz Adult Detention Facility,Parker,Arizona,Intergovernmental Service Agreement,$60.00
+1,Lackland AFB,San Antonio,Texas,Juvenile Facility,Not Available
+14,Lakeside - Englewood,Chicago,Illinois,Juvenile Facility,Not Available
+12,Lakeside - Washington Park,Chicago,Illinois,Juvenile Facility,Not Available
+6744,Laredo Detention Center Hold Room,Laredo,Texas,Holding/Staging Facility,Not Available
+2487,Laredo Processing Center,Laredo,Texas,Contract Detention Facility,$59.79
+1,Larkin Hospital,South Miami,Florida,Medical Facility,Not Available
+42,Las Vegas Hold Room,Las Vegas,Nevada,Holding/Staging Facility,Not Available
+12,LaSalle County Regional Detention Center,Encinal,Texas,Intergovernmental Service Agreement,Not Available
+187,Leake & Watts,Yonkers,New York,Juvenile Facility,Not Available
+8,Lexington County Jail,Lexington,South Carolina,Intergovernmental Service Agreement,$60.81
+64,Lincoln County Sheriff's Facility,Troy,Missouri,Intergovernmental Service Agreement,$50.00
+388,Lincoln Hall,Lincolndale,New York,Juvenile Facility,Not Available
+25,Linn County Jail,Cedar Rapids,Iowa,Intergovernmental Service Agreement,$64.70
+2,Little Rock Hold Room,Little Rock,Arkansas,Holding/Staging Facility,Not Available
+1,Loma Linda University Medical Center,Loma Linda,California,Medical Facility,Not Available
+1,Lompoc Federal Correctional Institution,Lompoc,California,Federal Bureau of Prisons,Not Available
+20,Lonoke Police Detention Center,Lonoke,Arkansas,Intergovernmental Service Agreement,$30.00
+148,Lorraine Thomas Shelter,Winter Park,Florida,Juvenile Facility,Not Available
+2,Los Angeles County Jail,Los Angeles,California,Intergovernmental Service Agreement,Not Available
+1738,Los Custody Case Holding Facility,San Pedro,California,Holding/Staging Facility,Not Available
+39,Los Fresnos Hold Room,Los Fresnos,Texas,Holding/Staging Facility,Not Available
+66,Louisville Hold Room,Louisville,Kentucky,Holding/Staging Facility,Not Available
+16,Loveland Hold Room,Loveland,Colorado,Holding/Staging Facility,Not Available
+274,LSSS New Hope Children's Emergency Shelter,Mcallen,Texas,Juvenile Facility,Not Available
+3,Lubbock County Jail,Lubbock,Texas,Intergovernmental Service Agreement,$65.00
+58,Lubbock Hold Room,Lubbock,Texas,Holding/Staging Facility,Not Available
+2,Lutheran Children and Family Services,Philadelphia,Pennsylvania,Intergovernmental Service Agreement,Not Available
+16,Lutheran Community Services,Worcester,Massachusetts,Juvenile Facility,Not Available
+4,Lutheran Community Services Facility,North Seattle,Washington,Juvenile Facility,Not Available
+12,Lutheran Social Services Facility,Lansing,Michigan,Juvenile Facility,Not Available
+259,Lutheran Social Services Facility,El Paso,Texas,Juvenile Facility,Not Available
+18,Lutheran Social Services Facility - Bay City,Bay City,Michigan,Juvenile Facility,Not Available
+12,Lutheran Social Services Facility - Farmington Hills,Farmington Hills,Michigan,Juvenile Facility,Not Available
+85,Lutheran Social Services of Metro NY,New York City,New York,Juvenile Facility,Not Available
+276,Lutheran Social Services of the South,Corpus Christi,Texas,Juvenile Facility,Not Available
+24,Luthern Social Services of New York (Treatment Foster Care),New York City,New York,Juvenile Facility,Not Available
+51,Manchester Hold Room,Manchester,New Hampshire,Holding/Staging Facility,Not Available
+12,Marion County Jail,Indianapolis,Indiana,Intergovernmental Service Agreement,$65.00
+99,Marshall County Jail,Marshalltown,Iowa,Intergovernmental Service Agreement,$50.00
+1,Maverick County Jail,Eagle Pass,Texas,Intergovernmental Service Agreement,Not Available
+112,McHenry County Adult Correctional Facility,Woodstock,Illinois,Intergovernmental Service Agreement,$95.00
+93,Mecklenburg County Jail,Charlotte,North Carolina,Intergovernmental Service Agreement,$124.78
+2,Medford Sub-Office Holding Facility,Medford,Oregon,Holding/Staging Facility,Not Available
+3,Memphis Hold Room,Memphis,Tennessee,Holding/Staging Facility,Not Available
+4,Mercy First - Bayshore,Bayshore,New York,Juvenile Facility,Not Available
+102,Mercy First - Syosset,Syosset,New York,Juvenile Facility,Not Available
+112,Mesa Verde Detention Facility - CCF,Bakersfield,California,Intergovernmental Service Agreement,"320 (GM); $119.95 (1-320), $94.95 (321-400)"
+2637,Miami Staging Facility,Miami,Florida,Holding/Staging Facility,Not Available
+3,Miller County Jail,Texarkana,Arkansas,Intergovernmental Service Agreement,$52.00
+35,Milwaukee Hold Room,Milwaukee,Wisconsin,Holding/Staging Facility,Not Available
+11,Minicassia Detention Center,Burley,Idaho,Intergovernmental Service Agreement,$45.00
+15,Mississippi County Detention Center,Charleston,Missouri,Intergovernmental Service Agreement,$65.03
+1,Missoula County Facility,Missoula,Montana,Intergovernmental Service Agreement,Not Available
+604,Monroe County Facility,Monroe,Michigan,Intergovernmental Service Agreement,$74.96
+39,Monroe County Jail,Key West,Florida,Intergovernmental Service Agreement,"50 (GM); $87.00 (1-50), $25.00 (51-72)"
+7,Monroe County Jail (Main),Monroe,Michigan,Intergovernmental Service Agreement,Not Available
+5,Montgomery City Jail,Montgomery,Alabama,Intergovernmental Service Agreement,$48.00
+146,Montgomery County Jail,Montgomery City,Missouri,Intergovernmental Service Agreement,$50.00
+251,Montgomery County Jail,Norristown,Pennsylvania,Intergovernmental Service Agreement,$74.50
+4341,Montgomery County Jail,Conroe,Texas,Intergovernmental Service Agreement,$67.07
+149,Morgan County Sheriff's Facilityt,Versailles,Missouri,Intergovernmental Service Agreement,$65.10
+60,Morrison Center,Portland,Oregon,Juvenile Facility,Not Available
+30,Morrison Center - Knott Site,Portland,Oregon,Juvenile Facility,Not Available
+54,Morrison Center - Paso Staff Secure,Portland,Oregon,Juvenile Facility,Not Available
+27,Morrison Center - Secure,Portland,Oregon,Juvenile Facility,Not Available
+503,Morrow County Correctional Facility,Mount Gilead,Ohio,Intergovernmental Service Agreement,$53.64
+1,MVM Transport -San Antonio,San Antonio,Texas,Other Facility Type,Not Available
+1,MVN Transportation - SNA,Rancho Cucamonga,California,Other Facility Type,Not Available
+1,Nashua St. Jail,Boston,Massachusetts,Intergovernmental Service Agreement,Not Available
+14,Natrona County Jail,Casper,Wyoming,Intergovernmental Service Agreement,$75.00
+133,Neighbor to Family - MIA,Daytona Beach,Florida,Juvenile Facility,Not Available
+49,Neighbor to Family - UAC PGM - ATL,Atlanta,Georgia,Juvenile Facility,Not Available
+6,New Hanover County Detention Center,Castle Hayne,North Carolina,Intergovernmental Service Agreement,$60.00
+110,New Leaf,Mesa,Arizona,Juvenile Facility,Not Available
+175,New York City Field Office Holding Facility,New York,New York,Holding/Staging Facility,Not Available
+115,New York Foundling Program/Shelter,New York City,New York,Juvenile Facility,Not Available
+153,Newark Immigration Holding Room,Newark,New Jersey,Holding/Staging Facility,Not Available
+18,Noank Group Homes and Support Services,Groton,Connecticut,Juvenile Facility,Not Available
+11,Nobles County Jail,Worthington,Minnesota,Intergovernmental Service Agreement,$89.69
+2,Norfolk County Facility,Dedham,Massachusetts,Intergovernmental Service Agreement,$95.00
+23,Norfolk Sub-Office Hold Room,Norfolk,Virginia,Holding/Staging Facility,Not Available
+16,Northern Oregon Correctional Facility also known as NORCOR,The Dalles,Oregon,Intergovernmental Service Agreement,$61.12
+5,Northern Regional Jail,Moundsville,West Virginia,Intergovernmental Service Agreement,$65.00
+24,Northern Virginia Juvenile Detention,Alexandria,Virginia,Intergovernmental Service Agreement,Not Available
+2159,Northwest Contract Detention Center,Tacoma,Washington,Contract Detention Facility,Not Available
+6,Northwest State Correctional Center,Swanton,Vermont,Intergovernmental Service Agreement,$130.00
+106,Nuevo Amanecer Latino Children's Services,Los Angeles,California,Juvenile Facility,Not Available
+1,Oakdale Federal Detention Center,Oakdale,Louisiana,Federal Bureau of Prisons,Not Available
+30,Office of Refugee Resettlement Juvenile Facility,Chicago,Illinois,Juvenile Facility,Not Available
+4,Ogden Hold Room,Ogden,Utah,Holding/Staging Facility,Not Available
+30,Oklahoma City Hold Room,Oklahoma City,Oklahoma,Holding/Staging Facility,Not Available
+39,Oldham County Jail,La Grange,Kentucky,Intergovernmental Service Agreement,Not Available
+469,Omaha Field Office Holding Facility,Omaha,Nebraska,Holding/Staging Facility,Not Available
+3,Ontario County Jail,Canandaigua,New York,Intergovernmental Service Agreement,$80.00
+204,Orange County Correctional Facility (Jail),Goshen,New York,Intergovernmental Service Agreement,$133.93
+5,Orange County Jail,Orlando,Florida,Intergovernmental Service Agreement,$88.00
+24,Orlando Hold Room,Orlando,Florida,Holding/Staging Facility,Not Available
+4,Otero County Detention Facility,Alamogordo,New Mexico,Intergovernmental Service Agreement,Not Available
+14520,Otero County Processing Center,Chaparral,New Mexico,Intergovernmental Service Agreement,"$91.03 (1-850), $18.72 (851-1000)"
+1,Palmdale Regional Medical Center,Palmdale,California,Medical Facility,Not Available
+1,Pecos Hold Room,Pecos,Texas,Holding/Staging Facility,Not Available
+5,Pelican Island Center,Galveston,Texas,Juvenile Facility,Not Available
+1,Pennington County Jail,Rapid City,South Dakota,Intergovernmental Service Agreement,$75.00
+2,Perryville State Prison,Goodyear,Arizona,Intergovernmental Service Agreement,Not Available
+10,Phelps County Jail,Holdrege,Nebraska,Intergovernmental Service Agreement,$55.00
+78,Philadelphia District Office Holding Facility,Philadelphia,Pennsylvania,Holding/Staging Facility,Not Available
+6203,Phoenix District Office Holding Facility,Phoenix,Arizona,Holding/Staging Facility,Not Available
+2,Phoenix Federal Correctional Institution,Phoenix,Arizona,Federal Bureau of Prisons,Not Available
+252,Pike County Correctional Facility (Jail),Lords Valley,Pennsylvania,Intergovernmental Service Agreement,$82.31
+5,Pinellas County Jail,Clearwater,Florida,Intergovernmental Service Agreement,$80.00
+29,Pioneer Human Services Facilities,Fife,Washington,Juvenile Facility,Not Available
+10,Platte County Jail,Platte City,Missouri,Intergovernmental Service Agreement,$77.90
+5,Platte County Jail,Wheatland,Wyoming,Intergovernmental Service Agreement,$63.00
+136,Plymouth County House of Corrections Facility,Plymouth,Massachusetts,Intergovernmental Service Agreement,$93.82
+2056,Polk County Jail,Livingston,Texas,Intergovernmental Service Agreement,$68.59
+8,Polk County Jail,Des Moines,Iowa,Intergovernmental Service Agreement,$95.00
+1,Port Isabel Police Department,Port Isabel,Texas,Intergovernmental Service Agreement,Not Available
+27535,Port Isabel Service Processing Center,Los Fresnos,Texas,ICE Service Processing Center,"800 (GM); $125.69 (1-800), $0.00 (800-1175)"
+154,Portland District Office Holding Facility,Portland,Oregon,Holding/Staging Facility,Not Available
+2,Portland ME Hold Room,Portland,Maine,Holding/Staging Facility,Not Available
+17,Pottawattamie County Jail,Council Bluffs,Iowa,Intergovernmental Service Agreement,$79.26
+14,Provo Hold Room,Provo,Utah,Holding/Staging Facility,Not Available
+3,Pueblo Hold Room,Pueblo,Colorado,Holding/Staging Facility,Not Available
+171,Quality Suites,San Diego,California,Other Facility Type,Not Available
+29,Raleigh Hold Room,Raleigh,North Carolina,Holding/Staging Facility,Not Available
+48,Ramsey Adult Detention Center Annex,St. Paul,Minnesota,Intergovernmental Service Agreement,$80.00
+25,Randall County Jail,Amarillo,Texas,Intergovernmental Service Agreement,$65.00
+3,Rapid City Hold Room,Rapid City,South Dakota,Holding/Staging Facility,Not Available
+73,Rapp Sec Center,Stafford,Virginia,Intergovernmental Service Agreement,Not Available
+26,Richmon Sub-Office Hold Room,Richmond,Virginia,Holding/Staging Facility,Not Available
+194,Rio Cosumnes Correctional Center,Elk Grove,California,Intergovernmental Service Agreement,$100.00
+7071,Rio Grande Detention Center,Laredo,Texas,Contract Detention Facility,Not Available
+5,Roanoke City Jail,Roanoke,Virginia,Intergovernmental Service Agreement,$46.57
+7,Rock Island County Jail,Rock Island,Illinois,Intergovernmental Service Agreement,$45.00
+5,Rock Island Hold Room,Rock Island,Illinois,Holding/Staging Facility,Not Available
+2637,Rolling Plains Detention Center,Haskell,Texas,Intergovernmental Service Agreement,$69.10
+855,Sacramento Holding Facility,Sacramento,California,Holding/Staging Facility,Not Available
+18,Saint Albans Hold Room,Saint Albans,New York,Holding/Staging Facility,Not Available
+109,Salt Lake City Hold Room,Salt Lake City,Utah,Holding/Staging Facility,Not Available
+2,Salt Lake County Jail,Salt Lake City,Utah,Intergovernmental Service Agreement,Not Available
+1328,San Antonio DRO Hold Room,San Antonio,Texas,Holding/Staging Facility,Not Available
+4477,San Bernadino Hold Room,San Bernadino,California,Holding/Staging Facility,Not Available
+2402,San Diego (Otay-Mesa) Contract Correctional Facility,San Diego,California,Contract Detention Facility,Not Available
+3,San Diego Area Hospital,Chula Vista,California,Medical Facility,Not Available
+1,San Diego County Jail,San Diego,California,Intergovernmental Service Agreement,Not Available
+14494,San Diego District Staging Facility,San Diego,California,Holding/Staging Facility,Not Available
+3,San Diego Metropolitan Correctional Center,San Diego,California,Federal Bureau of Prisons,Not Available
+1286,San Francisco Hold Room,San Francisco,California,Holding/Staging Facility,Not Available
+71,San Jose Hold Room,San Jose,California,Holding/Staging Facility,Not Available
+35,San Juan Airport Hold Room,San Juan,Puerto Rico,Holding/Staging Facility,Not Available
+407,San Juan Staging,San Juan,Puerto Rico,Holding/Staging Facility,Not Available
+27,San Luis Regional Detention Center,San Luis,Arizona,Intergovernmental Service Agreement,$72.00
+16,Sandy Pines Hospital,Tequesta,Florida,Medical Facility,Not Available
+1,Sangamon County Jail,Springfield,Illinois,Intergovernmental Service Agreement,$53.50
+7,Santa Ana City Jail,Santa Ana,California,Intergovernmental Service Agreement,$105.00
+2422,Santa Anna DRO Hold Room,Santa Ana,California,Holding/Staging Facility,Not Available
+1,Santa Fe County Jail,Santa Fe,New Mexico,Intergovernmental Service Agreement,Not Available
+172,Seattle Field Office Holding Room,Seattle,Washington,Holding/Staging Facility,Not Available
+10,Sebastian County Detention Center,Fort Smith,Arkansas,Intergovernmental Service Agreement,$53.00
+507,Seneca County Jail,Tiffin,Ohio,Intergovernmental Service Agreement,$58.00
+82,Seton Home,San Antonio,Texas,Juvenile Facility,Not Available
+3,Shawnee County Department of Corrections Facility,Topeka,Kansas,Intergovernmental Service Agreement,$67.85
+32,Shenandoah Valley Juvenile Center,Stauton,Virginia,Juvenile Facility,Not Available
+306,Sherburne County Jail,Elk River,Minnesota,Intergovernmental Service Agreement,$80.00
+27,Shiloh Treatment Center,Manvel,Texas,Juvenile Facility,Not Available
+16,Shreveport Hold Room,Shreveport,Louisiana,Holding/Staging Facility,Not Available
+5,Sioux City Hold Room,Sioux City,Iowa,Holding/Staging Facility,Not Available
+3,Souix Falls Hold Room,Sioux Falls,South Dakota,Holding/Staging Facility,Not Available
+6,South Central Regional Jail,Charleston,West Virginia,Intergovernmental Service Agreement,$56.00
+22,South Teas/Pearsall Hold Room,Pearsall,Texas,Holding/Staging Facility,Not Available
+9510,South Texas Contract Detention Facility,Pearsall,Texas,Contract Detention Facility,Not Available
+6840,South Texas Family Residential Center,Dilley,Texas,Intergovernmental Service Agreement,Not Available
+777,Southwest Key Progam Canutillo,Canutillo,Texas,Juvenile Facility,Not Available
+952,Southwest Key - Antigua,San Benito,Texas,Juvenile Facility,Not Available
+41,SWK - Brownsville Staff SC,Brownsville,Texas,Juvenile Facility,Not Available
+332,SWK - Casa Blanca,San Antonio,Texas,Juvenile Facility,Not Available
+384,SWK - Casa Franklin,El Paso,Texas,Juvenile Facility,Not Available
+362,SWK - Combes Facility,Harlingen,Texas,Juvenile Facility,Not Available
+354,SWK - Conroe,Conroe,Texas,Juvenile Facility,Not Available
+370,SWK - El Presidente,Brownsville,Texas,Juvenile Facility,Not Available
+132,SWK - Houston,Houston,Texas,Juvenile Facility,Not Available
+214,SWK - Houston Downtown,Houston,Texas,Juvenile Facility,Not Available
+350,SWK - No. 946,(not specified),Texas,Juvenile Facility,Not Available
+618,SWK - Nueva Esperanza,Brownsville,Texas,Juvenile Facility,Not Available
+812,SWK - Rio Grande,San Benito,Texas,Juvenile Facility,Not Available
+99,SWK Juvenile -Sanjose,San Jose,California,Juvenile Facility,Not Available
+500,Southwest Key Juvenile Shelter -Campbell,Phoenix,Arizona,Juvenile Facility,Not Available
+336,Southwest Key Juvenile Shelter -Casa Lighthouse,Phoenix,Arizona,Juvenile Facility,Not Available
+218,SWK Juvenile Shelter -Casa Phoenix,Phoenix,Arizona,Juvenile Facility,Not Available
+1167,Southwest Key Juvenile Shelter -Estrella,Tucson,Arizona,Juvenile Facility,Not Available
+282,SWK Juvenile Shelter -Glendale,Glendale,Arizona,Juvenile Facility,Not Available
+320,SWK Juvenile Shelter -Hacienda del Sol,Youngtown,Arizona,Juvenile Facility,Not Available
+445,Southwest Key Juvenile Shelter -Las Palmas,Phoenix,Arizona,Juvenile Facility,Not Available
+262,SWK Lemon Grove,Lemon Grove,California,Juvenile Facility,Not Available
+433,SWK Processing Center,San Benito,Texas,Juvenile Facility,Not Available
+522,SWK Progam (Juvenile),El Paso,Texas,Juvenile Facility,Not Available
+252,SWKs Juvenile Facility,El Cajon,California,Juvenile Facility,Not Available
+1420,Southwest Louisiana Basile Detention Center,Basile,Louisiana,Contract Detention Facility,$58.02
+17,Specialized Care for Immigrant Youth,Chicago,Illinois,Juvenile Facility,Not Available
+1,Springfield Federal Medical Center,Springfield,Missouri,Federal Bureau of Prisons,Not Available
+243,St. Clair County Facility,Port Huron,Michigan,Intergovernmental Service Agreement,$82.00
+1,St. George Hold Room,St. George,Utah,Holding/Staging Facility,Not Available
+2,St. Jerome's Group Home,Houston,Texas,Intergovernmental Service Agreement,Not Available
+6,St. Louis Hold Room,St. Louis,Missouri,Holding/Staging Facility,Not Available
+434,St. Peter - St. Joseph Children's Home,San Antonio,Texas,Juvenile Facility,Not Available
+75,St. Tammany Parish Jail,Covington,Louisiana,Intergovernmental Service Agreement,$56.69
+5763,Stewart Detention Center,Lumpkin,Georgia,Intergovernmental Service Agreement,$62.03
+63,Stockton Staging Facility,San Joaquin,California,Holding/Staging Facility,Not Available
+145,Strafford County Correction Facility,Dover,New Hampshire,Intergovernmental Service Agreement,$83.00
+427,Suffolk County House of Corrections (South Bay),Boston,Massachusetts,Intergovernmental Service Agreement,$90.00
+3,Sussex County Jail,Sussex,New Jersey,Intergovernmental Service Agreement,Not Available
+1,Sweetwater County Jail,Rock Springs,Wyoming,Intergovernmental Service Agreement,$61.57
+173,Sycamore Canyon Academy,Oracle,Arizona,Juvenile Facility,Not Available
+2979,T. Don Hutto Residential Center,Taylor,Texas,Juvenile Facility,Not Available
+48,Tampa Hold Room,Tampa,Florida,Holding/Staging Facility,Not Available
+57,Tensas Parish Detention Center,Waterproof,Louisiana,Intergovernmental Service Agreement,$46.76
+6,Texarkana Hold Room,Texarkana,Texas,Holding/Staging Facility,Not Available
+120,The Children's Home - Tampa,Tampa,Florida,Juvenile Facility,Not Available
+14,Theo Lacy Facility,Orange,California,Intergovernmental Service Agreement,$118.00
+1,Tom Green City Jail,San Angelo,Texas,Intergovernmental Service Agreement,Not Available
+1,Toole County Facility,Shelby,Montana,Intergovernmental Service Agreement,Not Available
+3,Torrance County Detention Facility,Estancia,New Mexico,Intergovernmental Service Agreement,Not Available
+41,Tri-County Detention Center,Ullin,Illinois,Intergovernmental Service Agreement,$76.00
+892,Tucson Immigration Holding Room,Tucson,Arizona,Holding/Staging Facility,Not Available
+31,Tumbleweed Shelter - Desert Cove,Phoenix,Arizona,Juvenile Facility,Not Available
+11,Tumbleweed Shelter - Casa de Suenos-Willetta,Phoenix,Arizona,Juvenile Facility,Not Available
+18,Tumbleweed Shelter - Mountain View,Phoenix,Arizona,Juvenile Facility,Not Available
+2,Twin Falls Hold Room,Twin Falls,Idaho,Holding/Staging Facility,Not Available
+587,U.S. Detention and Deportation Holding Facility,Bloomington,Minnesota,Holding/Staging Facility,Not Available
+1,U.S. Marshal's - Southern District of Mississippi,Jackson,Mississippi,U.S. Marshals Service Office,Not Available
+1,U.S. Marshal's - Vermont,Burlington,Vermont,U.S. Marshals Service Office,Not Available
+63,Unied Methodist Home for Children,Mechanicsburg,Pennsylvania,Juvenile Facility,Not Available
+10,Urban Strategies - FMD,Miami,Florida,Juvenile Facility,Not Available
+34,Urban Strategies - Iglesia de Dios,Tampa,Florida,Juvenile Facility,Not Available
+38,Urban Strategies - Tavares Church,Tavares,Florida,Juvenile Facility,Not Available
+21,Urban Strategies Ignite Life Center-Gainesville,Gainesville,Florida,Juvenile Facility,Not Available
+56,Urban Strategies-Neighborhood Ministry,Phoenix,Arizona,Juvenile Facility,Not Available
+9,US Catholic Conference of Bishops,Richmond,Virginia,Juvenile Facility,Not Available
+619,Utah County Jail,Spanish Fork,Utah,Intergovernmental Service Agreement,$72.25
+112,Val Verde Detention Center,Del Rio,Texas,Intergovernmental Service Agreement,$56.00
+624,Varick Street Service Processing Center,New York,New York,ICE Service Processing Center,Not Available
+65,Ventura Custody Case Holding Facility,Camarrillo,California,Holding/Staging Facility,Not Available
+1,Vermont Department of Corrections Facility,Waterbury,Vermont,Intergovernmental Service Agreement,Not Available
+1,Victor Valley Global Medical Center,Victorville,California,Medical Facility,Not Available
+50,Virginia Peninsula Regional Jail,Williamsburg,Virginia,Intergovernmental Service Agreement,$62.37
+1,Vista Detention Facility,Vista,California,Intergovernmental Service Agreement,Not Available
+2,Wackenhut Facility,San Antonio,Texas,Intergovernmental Service Agreement,$58.00
+179,Waco Hold Room,Waco,Texas,Holding/Staging Facility,Not Available
+42,Wake County Sheriff Dept.,Raleigh,North Carolina,Intergovernmental Service Agreement,$63.86
+92,Wakulla County Jail,Crawfordville,Florida,Intergovernmental Service Agreement,$79.66
+26,Washington County Jail,Hurricane,Utah,Intergovernmental Service Agreement,$58.00
+1011,Washington Field Office Holding Facility,Fairfax,Virginia,Holding/Staging Facility,Not Available
+246,Washoe County Jail,Reno,Nevada,Intergovernmental Service Agreement,$109.00
+2,Washtenaw County Facility,Ann Arbor,Michigan,Intergovernmental Service Agreement,Not Available
+8,Wayne County Jail,Lyons,New York,Intergovernmental Service Agreement,$75.00
+13938,West Texas Detention Facility,Sierra Blanca,Texas,Intergovernmental Service Agreement,$77.00
+28,Western Tennessee Detention Center,Mason,Tennessee,Intergovernmental Service Agreement,$102.83
+2,White Memorial Hospital,Los Angeles,California,Medical Facility,Not Available
+2,Whitfield County Jail,Dalton,Georgia,Intergovernmental Service Agreement,$41.03
+23,Wichita Hold Room,Wichita,Kansas,Holding/Staging Facility,Not Available
+324,Willacy County Regional Detention Facility,Raymondville,Texas,Intergovernmental Service Agreement,$96.09
+380,Worcester County Detention Center,Snow Hill,Maryland,Intergovernmental Service Agreement,$87.11
+19,Yakima County Facility,Yakima,Washington,Intergovernmental Service Agreement,$84.51
+17,Yakima Sub-Office,Yakima,Washington,Holding/Staging Facility,Not Available
+4,Yellowstone County Jail,Billings,Montana,Intergovernmental Service Agreement,Not Available
+8,Yolo County Juvenile Detention,Woodland,California,Juvenile Facility,Not Available
+133,York County Detention Center,York,South Carolina,Intergovernmental Service Agreement,$55.00
+2735,York County Jail,York,Pennsylvania,Intergovernmental Service Agreement,$83.00
+171,Youth for Tomorrow,Bristow,Virginia,Juvenile Facility,Not Available
+56,YouthCare Facility,Seattle,Washington,Juvenile Facility,Not Available
+272,Yuba County Jail,Marysville,California,Intergovernmental Service Agreement,$75.16
+846,Yuma Hold Room,Yuma,Arizona,Holding/Staging Facility,Not Available
