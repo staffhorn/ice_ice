@@ -114,3 +114,4 @@ webencodings
 widgetsnbextension
 XlsxWriter
 zope.interface
+ipyleaflet
