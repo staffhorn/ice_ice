@@ -170,3 +170,6 @@ flycheck_*.el
 *~
 
 *.stackdump
+
+
+notebooks/connect_ICE_db.ipynb
